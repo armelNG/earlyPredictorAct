@@ -1,0 +1,2366 @@
+code_module;code_presentation;id_student;gender;region;highest_education;imd_band;age_band;num_of_prev_attempts;studied_credits;disability;final_result
+FFF;2014J;31296;M;East Midlands Region;Lower Than A Level;30-40%;0-35;1;60;N;Fail
+FFF;2014J;35747;M;North Western Region;A Level or Equivalent;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;35796;M;Wales;A Level or Equivalent;20-30%;0-35;0;60;N;Fail
+FFF;2014J;40857;F;North Western Region;A Level or Equivalent;30-40%;0-35;0;120;Y;Withdrawn
+FFF;2014J;40878;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;N;Distinction
+FFF;2014J;42552;F;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;90;N;Pass
+FFF;2014J;43958;M;Wales;A Level or Equivalent;90-100%;35-55;1;60;N;Fail
+FFF;2014J;45423;M;South West Region;Lower Than A Level;70-80%;35-55;0;60;N;Fail
+FFF;2014J;47861;M;South East Region;A Level or Equivalent;50-60%;0-35;0;60;Y;Pass
+FFF;2014J;52275;M;London Region;No Formal quals;0-10%;0-35;0;90;N;Fail
+FFF;2014J;54772;M;South Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;56637;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;90;Y;Distinction
+FFF;2014J;56667;M;Yorkshire Region;Lower Than A Level;40-50%;35-55;2;120;N;Fail
+FFF;2014J;58884;M;South Region;A Level or Equivalent;40-50%;35-55;0;90;Y;Distinction
+FFF;2014J;61297;F;East Midlands Region;No Formal quals;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;63112;M;South East Region;Lower Than A Level;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;64427;M;London Region;A Level or Equivalent;0-10%;0-35;0;60;N;Distinction
+FFF;2014J;64777;M;North Western Region;Lower Than A Level;30-40%;0-35;1;90;Y;Withdrawn
+FFF;2014J;66892;M;London Region;A Level or Equivalent;20-30%;0-35;1;60;N;Withdrawn
+FFF;2014J;69439;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;71159;M;North Region;Lower Than A Level;;35-55;0;60;N;Pass
+FFF;2014J;74165;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;75107;M;North Region;Lower Than A Level;;35-55;0;60;N;Distinction
+FFF;2014J;77692;M;Wales;HE Qualification;50-60%;35-55;0;60;N;Pass
+FFF;2014J;77995;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;79610;M;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;80438;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;82201;F;London Region;Lower Than A Level;50-60%;0-35;1;60;N;Fail
+FFF;2014J;84604;F;North Region;A Level or Equivalent;60-70%;35-55;0;90;N;Distinction
+FFF;2014J;85241;M;South West Region;Lower Than A Level;50-60%;0-35;0;120;Y;Withdrawn
+FFF;2014J;87264;M;South East Region;Lower Than A Level;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;87322;M;Wales;Lower Than A Level;50-60%;0-35;0;120;Y;Pass
+FFF;2014J;90651;M;South Region;A Level or Equivalent;90-100%;35-55;0;120;N;Withdrawn
+FFF;2014J;91801;M;Yorkshire Region;Lower Than A Level;50-60%;35-55;1;60;N;Withdrawn
+FFF;2014J;94749;M;Wales;Lower Than A Level;90-100%;0-35;0;60;N;Fail
+FFF;2014J;98256;M;West Midlands Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;101217;M;London Region;A Level or Equivalent;40-50%;35-55;2;60;Y;Fail
+FFF;2014J;102854;M;South East Region;Lower Than A Level;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;103594;M;Wales;Lower Than A Level;50-60%;0-35;0;180;N;Withdrawn
+FFF;2014J;105125;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;105939;M;North Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;107455;M;Ireland;HE Qualification;50-60%;0-35;0;120;N;Fail
+FFF;2014J;108949;M;North Western Region;Lower Than A Level;oct-20;0-35;2;60;N;Fail
+FFF;2014J;109577;M;North Western Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;109907;F;London Region;Lower Than A Level;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;110820;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;60;Y;Withdrawn
+FFF;2014J;113702;M;Ireland;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;116529;M;West Midlands Region;Lower Than A Level;30-40%;0-35;1;120;N;Fail
+FFF;2014J;119310;M;North Western Region;Lower Than A Level;20-30%;0-35;0;150;N;Pass
+FFF;2014J;119865;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;125063;M;London Region;Lower Than A Level;60-70%;35-55;0;60;N;Fail
+FFF;2014J;127179;M;South West Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;129907;M;East Anglian Region;HE Qualification;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;130409;M;South East Region;Lower Than A Level;20-30%;0-35;0;60;Y;Pass
+FFF;2014J;131597;M;Scotland;A Level or Equivalent;40-50%;0-35;0;430;N;Pass
+FFF;2014J;132423;M;London Region;A Level or Equivalent;40-50%;0-35;0;240;N;Withdrawn
+FFF;2014J;132475;F;Scotland;HE Qualification;20-30%;0-35;0;60;N;Pass
+FFF;2014J;135280;M;North Region;Lower Than A Level;;0-35;0;120;N;Distinction
+FFF;2014J;136944;M;Scotland;A Level or Equivalent;40-50%;0-35;1;90;N;Pass
+FFF;2014J;139206;M;Wales;Lower Than A Level;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;142310;M;Scotland;A Level or Equivalent;40-50%;0-35;0;180;N;Pass
+FFF;2014J;143755;F;East Midlands Region;Lower Than A Level;50-60%;35-55;0;60;N;Pass
+FFF;2014J;144959;M;Ireland;A Level or Equivalent;90-100%;0-35;1;90;N;Withdrawn
+FFF;2014J;149178;M;London Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;149964;M;East Anglian Region;Lower Than A Level;70-80%;0-35;0;240;N;Withdrawn
+FFF;2014J;150282;M;Ireland;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;152524;M;West Midlands Region;A Level or Equivalent;70-80%;35-55;0;120;N;Distinction
+FFF;2014J;152917;M;North Western Region;A Level or Equivalent;20-30%;35-55;0;150;Y;Distinction
+FFF;2014J;155938;M;South Region;A Level or Equivalent;;0-35;0;60;N;Pass
+FFF;2014J;157225;M;South East Region;A Level or Equivalent;60-70%;35-55;0;150;N;Withdrawn
+FFF;2014J;159906;M;East Midlands Region;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;159947;M;Wales;HE Qualification;oct-20;35-55;0;120;N;Fail
+FFF;2014J;161837;M;South Region;A Level or Equivalent;80-90%;0-35;0;120;Y;Withdrawn
+FFF;2014J;164148;F;North Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;166123;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;166607;M;Scotland;A Level or Equivalent;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;169596;M;West Midlands Region;Lower Than A Level;80-90%;35-55;2;90;N;Fail
+FFF;2014J;170874;M;North Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;171692;F;Wales;A Level or Equivalent;0-10%;0-35;1;150;N;Withdrawn
+FFF;2014J;172493;M;North Region;A Level or Equivalent;30-40%;0-35;0;90;N;Pass
+FFF;2014J;173412;M;North Region;HE Qualification;20-30%;0-35;1;60;N;Withdrawn
+FFF;2014J;177492;M;West Midlands Region;HE Qualification;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;184627;F;London Region;HE Qualification;0-10%;35-55;4;240;N;Withdrawn
+FFF;2014J;184720;M;Wales;Lower Than A Level;oct-20;0-35;3;60;N;Fail
+FFF;2014J;185994;M;East Anglian Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;191504;M;Ireland;Lower Than A Level;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;194163;M;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;195246;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;195552;M;Yorkshire Region;A Level or Equivalent;20-30%;0-35;1;120;N;Pass
+FFF;2014J;197188;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;197536;F;Yorkshire Region;A Level or Equivalent;80-90%;0-35;0;90;N;Pass
+FFF;2014J;199009;M;Scotland;Lower Than A Level;70-80%;0-35;0;90;N;Pass
+FFF;2014J;204117;M;London Region;Lower Than A Level;70-80%;0-35;0;60;Y;Withdrawn
+FFF;2014J;226955;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;228633;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;110;N;Pass
+FFF;2014J;229498;M;Scotland;A Level or Equivalent;0-10%;0-35;4;60;N;Pass
+FFF;2014J;230656;M;North Region;Lower Than A Level;0-10%;0-35;0;240;N;Withdrawn
+FFF;2014J;230947;M;North Western Region;Lower Than A Level;40-50%;0-35;0;90;N;Fail
+FFF;2014J;231980;M;South East Region;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;232173;M;North Western Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;234031;M;Wales;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;234661;M;South Region;Lower Than A Level;80-90%;0-35;1;60;N;Pass
+FFF;2014J;235747;M;South West Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;235768;M;South West Region;A Level or Equivalent;60-70%;35-55;0;60;N;Pass
+FFF;2014J;235971;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;236090;F;East Anglian Region;Lower Than A Level;50-60%;0-35;0;180;N;Fail
+FFF;2014J;237891;M;Scotland;A Level or Equivalent;50-60%;0-35;1;120;N;Pass
+FFF;2014J;238301;M;North Western Region;Lower Than A Level;oct-20;0-35;0;240;N;Withdrawn
+FFF;2014J;242636;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;120;N;Fail
+FFF;2014J;249357;M;North Region;Post Graduate Qualification;;35-55;0;60;N;Pass
+FFF;2014J;251166;M;South West Region;A Level or Equivalent;50-60%;0-35;0;60;N;Fail
+FFF;2014J;251397;M;London Region;HE Qualification;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;251916;M;South Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;253633;M;South West Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;253763;M;Wales;A Level or Equivalent;20-30%;35-55;0;90;N;Distinction
+FFF;2014J;258245;F;North Western Region;Lower Than A Level;0-10%;0-35;0;60;Y;Pass
+FFF;2014J;258509;M;Scotland;HE Qualification;90-100%;0-35;0;90;N;Pass
+FFF;2014J;258978;F;South Region;A Level or Equivalent;20-30%;0-35;1;60;N;Pass
+FFF;2014J;260275;M;West Midlands Region;HE Qualification;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;261863;M;Scotland;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;262025;F;Scotland;A Level or Equivalent;60-70%;35-55;0;60;N;Pass
+FFF;2014J;262332;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;262394;M;South Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;263143;F;North Western Region;A Level or Equivalent;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;263862;M;West Midlands Region;A Level or Equivalent;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;264589;M;Scotland;A Level or Equivalent;50-60%;0-35;4;60;N;Fail
+FFF;2014J;265497;M;North Western Region;HE Qualification;0-10%;0-35;0;60;N;Pass
+FFF;2014J;268727;F;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;268823;M;Wales;No Formal quals;oct-20;0-35;0;60;N;Fail
+FFF;2014J;269584;M;Scotland;A Level or Equivalent;40-50%;35-55;0;90;N;Pass
+FFF;2014J;270421;F;West Midlands Region;A Level or Equivalent;40-50%;0-35;2;90;N;Pass
+FFF;2014J;271702;M;West Midlands Region;Lower Than A Level;20-30%;0-35;2;120;N;Withdrawn
+FFF;2014J;272704;M;East Midlands Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;275127;M;Wales;A Level or Equivalent;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;276265;M;Scotland;A Level or Equivalent;80-90%;0-35;2;60;Y;Pass
+FFF;2014J;276337;M;South Region;Lower Than A Level;90-100%;0-35;1;120;Y;Withdrawn
+FFF;2014J;277384;M;London Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;278380;M;North Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;279440;F;Scotland;HE Qualification;0-10%;0-35;0;60;N;Pass
+FFF;2014J;279653;F;South Region;HE Qualification;90-100%;35-55;0;120;N;Distinction
+FFF;2014J;279883;M;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;281134;F;Scotland;A Level or Equivalent;20-30%;0-35;0;90;N;Pass
+FFF;2014J;281970;F;South East Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;282849;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;283402;M;London Region;HE Qualification;30-40%;0-35;0;60;N;Pass
+FFF;2014J;286778;F;Wales;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;287079;M;London Region;HE Qualification;40-50%;35-55;2;60;N;Fail
+FFF;2014J;287258;M;Scotland;A Level or Equivalent;60-70%;35-55;0;60;N;Pass
+FFF;2014J;287715;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;289179;M;East Midlands Region;A Level or Equivalent;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;289247;M;South Region;HE Qualification;80-90%;0-35;0;90;N;Distinction
+FFF;2014J;289618;M;Wales;A Level or Equivalent;90-100%;35-55;1;60;N;Withdrawn
+FFF;2014J;289676;M;Yorkshire Region;A Level or Equivalent;70-80%;35-55;1;60;N;Fail
+FFF;2014J;294112;M;Scotland;A Level or Equivalent;40-50%;0-35;0;150;N;Fail
+FFF;2014J;294219;F;North Western Region;A Level or Equivalent;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;294920;M;Scotland;Post Graduate Qualification;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;294929;M;North Western Region;A Level or Equivalent;50-60%;35-55;0;90;N;Pass
+FFF;2014J;295893;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;Y;Fail
+FFF;2014J;297218;M;Yorkshire Region;A Level or Equivalent;60-70%;0-35;0;210;N;Pass
+FFF;2014J;297341;F;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;Y;Pass
+FFF;2014J;300848;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;240;N;Withdrawn
+FFF;2014J;301074;M;South Region;Lower Than A Level;20-30%;0-35;1;120;N;Pass
+FFF;2014J;301561;M;South West Region;Lower Than A Level;30-40%;0-35;1;60;N;Withdrawn
+FFF;2014J;305064;M;South Region;Lower Than A Level;20-30%;0-35;0;180;N;Pass
+FFF;2014J;305659;M;South East Region;A Level or Equivalent;80-90%;0-35;0;90;N;Distinction
+FFF;2014J;310205;M;South West Region;Lower Than A Level;40-50%;0-35;1;60;N;Fail
+FFF;2014J;312126;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;312231;M;East Midlands Region;HE Qualification;30-40%;0-35;0;60;N;Pass
+FFF;2014J;312960;M;East Anglian Region;HE Qualification;80-90%;0-35;0;120;N;Pass
+FFF;2014J;315795;M;South Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;316061;M;North Western Region;Lower Than A Level;0-10%;0-35;2;60;Y;Withdrawn
+FFF;2014J;316082;M;East Anglian Region;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;318139;M;Yorkshire Region;A Level or Equivalent;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;318147;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;318289;M;Scotland;A Level or Equivalent;20-30%;0-35;2;60;Y;Withdrawn
+FFF;2014J;319073;F;Ireland;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;319461;M;West Midlands Region;Lower Than A Level;oct-20;35-55;0;90;N;Withdrawn
+FFF;2014J;320133;F;South Region;A Level or Equivalent;oct-20;0-35;0;90;N;Distinction
+FFF;2014J;320612;M;East Midlands Region;HE Qualification;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;322499;M;Scotland;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;324331;M;North Western Region;Lower Than A Level;70-80%;35-55;1;60;N;Fail
+FFF;2014J;325750;M;Scotland;HE Qualification;oct-20;35-55;2;120;N;Pass
+FFF;2014J;327664;F;South East Region;Lower Than A Level;60-70%;0-35;1;120;N;Withdrawn
+FFF;2014J;328377;M;West Midlands Region;A Level or Equivalent;60-70%;35-55;1;120;N;Withdrawn
+FFF;2014J;328797;M;Scotland;HE Qualification;70-80%;35-55;1;60;N;Fail
+FFF;2014J;329095;M;Ireland;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;329895;M;East Anglian Region;A Level or Equivalent;50-60%;35-55;3;60;N;Pass
+FFF;2014J;331789;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;332237;M;South Region;HE Qualification;90-100%;0-35;1;60;N;Fail
+FFF;2014J;332676;M;East Anglian Region;Lower Than A Level;50-60%;0-35;1;60;Y;Withdrawn
+FFF;2014J;333993;M;North Western Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;334224;M;North Western Region;Lower Than A Level;0-10%;0-35;2;60;Y;Withdrawn
+FFF;2014J;335095;M;South West Region;A Level or Equivalent;80-90%;0-35;1;120;N;Pass
+FFF;2014J;337000;M;South West Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;338689;M;West Midlands Region;HE Qualification;0-10%;0-35;0;150;N;Pass
+FFF;2014J;338806;M;North Region;Lower Than A Level;70-80%;0-35;3;120;N;Pass
+FFF;2014J;339519;M;South East Region;Lower Than A Level;40-50%;0-35;0;120;N;Pass
+FFF;2014J;340831;M;West Midlands Region;A Level or Equivalent;30-40%;35-55;0;120;N;Withdrawn
+FFF;2014J;341093;M;South West Region;A Level or Equivalent;oct-20;0-35;2;120;N;Fail
+FFF;2014J;341457;F;Scotland;HE Qualification;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;341629;M;Wales;HE Qualification;oct-20;0-35;0;150;N;Fail
+FFF;2014J;343709;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;345271;M;North Region;A Level or Equivalent;30-40%;35-55;1;60;N;Distinction
+FFF;2014J;347197;M;North Western Region;Lower Than A Level;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;348108;M;Scotland;A Level or Equivalent;50-60%;0-35;1;120;N;Pass
+FFF;2014J;348324;M;South West Region;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;348906;M;Scotland;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;349515;M;South Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;349777;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;351147;M;Scotland;HE Qualification;40-50%;0-35;0;60;N;Pass
+FFF;2014J;351293;M;Wales;A Level or Equivalent;oct-20;0-35;2;60;N;Withdrawn
+FFF;2014J;354698;M;North Region;Lower Than A Level;;35-55;2;90;N;Pass
+FFF;2014J;354713;M;North Region;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;355293;M;East Midlands Region;Lower Than A Level;30-40%;0-35;2;60;N;Pass
+FFF;2014J;357851;M;East Anglian Region;Lower Than A Level;50-60%;0-35;2;120;Y;Fail
+FFF;2014J;360278;M;East Midlands Region;Lower Than A Level;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;360752;M;South East Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;364066;M;London Region;Lower Than A Level;30-40%;0-35;2;150;N;Distinction
+FFF;2014J;366140;M;Yorkshire Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;367151;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;368389;M;North Western Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;369242;M;South East Region;A Level or Equivalent;40-50%;0-35;0;150;N;Pass
+FFF;2014J;369450;M;South East Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;369644;F;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;150;N;Withdrawn
+FFF;2014J;370735;M;South Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;372345;M;South West Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;372509;M;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;372511;M;North Region;HE Qualification;;0-35;0;150;N;Pass
+FFF;2014J;374353;F;Yorkshire Region;Lower Than A Level;0-10%;35-55;0;150;N;Withdrawn
+FFF;2014J;375527;M;South Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;375993;F;East Midlands Region;Lower Than A Level;30-40%;0-35;1;60;N;Withdrawn
+FFF;2014J;378705;M;Yorkshire Region;Lower Than A Level;0-10%;35-55;0;60;N;Fail
+FFF;2014J;378946;M;South East Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;379278;M;Scotland;HE Qualification;40-50%;0-35;0;60;N;Fail
+FFF;2014J;379311;M;South East Region;Lower Than A Level;80-90%;0-35;1;120;N;Fail
+FFF;2014J;379563;M;South West Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;380952;F;South East Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;381257;F;Scotland;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;381414;M;South East Region;Lower Than A Level;60-70%;35-55;2;60;N;Pass
+FFF;2014J;381428;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;381528;F;London Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;381529;M;South West Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;383445;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;60;Y;Fail
+FFF;2014J;383602;F;South Region;Lower Than A Level;80-90%;0-35;0;120;N;Pass
+FFF;2014J;383629;M;West Midlands Region;Lower Than A Level;70-80%;0-35;2;60;N;Pass
+FFF;2014J;384107;M;Yorkshire Region;Lower Than A Level;70-80%;0-35;0;60;N;Fail
+FFF;2014J;384331;M;South Region;A Level or Equivalent;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;386121;M;London Region;Lower Than A Level;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;386389;M;North Region;Lower Than A Level;oct-20;35-55;1;120;N;Pass
+FFF;2014J;386956;F;Wales;Lower Than A Level;oct-20;35-55;1;60;Y;Withdrawn
+FFF;2014J;389853;M;North Western Region;A Level or Equivalent;70-80%;0-35;1;60;N;Withdrawn
+FFF;2014J;390070;M;North Region;A Level or Equivalent;30-40%;35-55;0;60;N;Fail
+FFF;2014J;393141;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;90;Y;Fail
+FFF;2014J;395758;M;North Region;HE Qualification;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;396136;M;East Midlands Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;396683;M;Scotland;HE Qualification;20-30%;0-35;0;120;N;Pass
+FFF;2014J;396834;M;South East Region;A Level or Equivalent;50-60%;0-35;0;240;N;Pass
+FFF;2014J;396907;M;London Region;Lower Than A Level;70-80%;0-35;1;60;N;Fail
+FFF;2014J;397219;M;Scotland;HE Qualification;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;397292;F;North Western Region;Lower Than A Level;0-10%;0-35;1;60;N;Fail
+FFF;2014J;397671;F;East Anglian Region;Lower Than A Level;70-80%;35-55;0;90;N;Distinction
+FFF;2014J;398550;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;2;90;N;Distinction
+FFF;2014J;398630;M;East Anglian Region;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;399429;F;East Midlands Region;A Level or Equivalent;60-70%;0-35;1;60;N;Distinction
+FFF;2014J;402695;M;East Midlands Region;Lower Than A Level;40-50%;35-55;2;90;N;Pass
+FFF;2014J;405193;F;East Midlands Region;A Level or Equivalent;80-90%;35-55;1;60;N;Pass
+FFF;2014J;407232;M;Ireland;A Level or Equivalent;30-40%;0-35;0;180;N;Pass
+FFF;2014J;408499;F;East Anglian Region;A Level or Equivalent;90-100%;35-55;0;120;Y;Withdrawn
+FFF;2014J;408872;M;Wales;Lower Than A Level;oct-20;0-35;0;60;Y;Withdrawn
+FFF;2014J;410407;M;South Region;HE Qualification;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;410883;M;South West Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;411304;F;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;411688;M;London Region;A Level or Equivalent;80-90%;0-35;2;60;N;Fail
+FFF;2014J;412353;M;West Midlands Region;A Level or Equivalent;60-70%;55<=;0;60;N;Pass
+FFF;2014J;413180;M;London Region;A Level or Equivalent;60-70%;0-35;1;120;N;Pass
+FFF;2014J;413709;M;Ireland;A Level or Equivalent;80-90%;0-35;2;120;N;Pass
+FFF;2014J;413949;F;Scotland;Lower Than A Level;oct-20;0-35;0;60;Y;Pass
+FFF;2014J;416199;M;West Midlands Region;Lower Than A Level;oct-20;0-35;1;60;N;Pass
+FFF;2014J;416407;M;North Region;Lower Than A Level;;35-55;1;60;N;Pass
+FFF;2014J;416426;M;East Anglian Region;HE Qualification;oct-20;0-35;1;90;N;Withdrawn
+FFF;2014J;418201;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Fail
+FFF;2014J;418486;M;London Region;Lower Than A Level;oct-20;0-35;2;240;N;Withdrawn
+FFF;2014J;419059;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Distinction
+FFF;2014J;419081;F;North Western Region;A Level or Equivalent;0-10%;0-35;0;90;N;Fail
+FFF;2014J;420834;M;Scotland;HE Qualification;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;421070;F;Scotland;HE Qualification;50-60%;35-55;1;90;N;Withdrawn
+FFF;2014J;423210;M;Scotland;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;423488;M;Wales;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;423781;M;South West Region;A Level or Equivalent;90-100%;0-35;0;90;N;Pass
+FFF;2014J;425467;F;South West Region;A Level or Equivalent;70-80%;0-35;0;60;Y;Withdrawn
+FFF;2014J;426410;M;East Midlands Region;Lower Than A Level;70-80%;0-35;1;60;N;Fail
+FFF;2014J;427256;M;South Region;Post Graduate Qualification;90-100%;35-55;0;120;N;Pass
+FFF;2014J;427485;M;South West Region;Lower Than A Level;30-40%;0-35;2;60;N;Withdrawn
+FFF;2014J;429832;M;Ireland;HE Qualification;;0-35;2;90;N;Fail
+FFF;2014J;431139;M;North Region;Lower Than A Level;;0-35;0;120;N;Pass
+FFF;2014J;434476;M;London Region;A Level or Equivalent;30-40%;35-55;2;120;Y;Pass
+FFF;2014J;435294;F;Wales;Lower Than A Level;60-70%;0-35;0;150;Y;Withdrawn
+FFF;2014J;438063;M;Wales;A Level or Equivalent;20-30%;35-55;2;60;Y;Fail
+FFF;2014J;438644;F;North Region;A Level or Equivalent;;35-55;3;60;N;Fail
+FFF;2014J;439950;M;Ireland;Lower Than A Level;20-30%;0-35;2;90;N;Fail
+FFF;2014J;439995;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;3;60;N;Pass
+FFF;2014J;440818;M;Scotland;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;441020;F;South Region;HE Qualification;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;441165;M;South Region;A Level or Equivalent;60-70%;0-35;1;120;Y;Pass
+FFF;2014J;441170;M;South West Region;Lower Than A Level;70-80%;0-35;1;120;N;Withdrawn
+FFF;2014J;441421;M;South West Region;Lower Than A Level;40-50%;0-35;1;60;N;Fail
+FFF;2014J;441540;M;South East Region;Lower Than A Level;80-90%;0-35;1;120;N;Withdrawn
+FFF;2014J;442199;M;East Anglian Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;442347;M;South West Region;Lower Than A Level;80-90%;0-35;1;120;Y;Withdrawn
+FFF;2014J;442563;M;North Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;442725;M;Wales;A Level or Equivalent;70-80%;35-55;0;120;N;Fail
+FFF;2014J;442802;M;South West Region;A Level or Equivalent;80-90%;35-55;0;60;N;Pass
+FFF;2014J;443151;F;East Anglian Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;443514;M;Ireland;HE Qualification;70-80%;0-35;0;90;N;Pass
+FFF;2014J;443696;F;London Region;A Level or Equivalent;80-90%;0-35;3;180;N;Fail
+FFF;2014J;444011;M;East Anglian Region;A Level or Equivalent;30-40%;0-35;0;180;Y;Pass
+FFF;2014J;444619;M;South Region;A Level or Equivalent;50-60%;35-55;1;120;N;Pass
+FFF;2014J;444907;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;445459;M;London Region;A Level or Equivalent;60-70%;0-35;0;90;Y;Withdrawn
+FFF;2014J;445686;M;Ireland;A Level or Equivalent;80-90%;0-35;0;90;N;Pass
+FFF;2014J;446778;M;South Region;A Level or Equivalent;40-50%;35-55;0;180;N;Withdrawn
+FFF;2014J;464522;M;East Anglian Region;Lower Than A Level;50-60%;0-35;1;120;Y;Withdrawn
+FFF;2014J;465009;M;North Region;A Level or Equivalent;;35-55;2;120;N;Withdrawn
+FFF;2014J;465078;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;1;60;Y;Withdrawn
+FFF;2014J;465121;M;Wales;A Level or Equivalent;50-60%;0-35;1;180;N;Fail
+FFF;2014J;465245;M;South East Region;Lower Than A Level;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;465294;M;South Region;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;466120;M;East Anglian Region;Lower Than A Level;oct-20;0-35;1;60;N;Fail
+FFF;2014J;466717;M;West Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;466807;M;Ireland;Lower Than A Level;90-100%;0-35;1;60;N;Withdrawn
+FFF;2014J;466987;M;North Region;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;467312;M;London Region;Lower Than A Level;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;467363;M;Ireland;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;468623;F;South Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;469499;M;North Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;470121;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;471284;M;Yorkshire Region;Lower Than A Level;40-50%;0-35;1;60;N;Fail
+FFF;2014J;471374;M;Wales;A Level or Equivalent;70-80%;0-35;0;150;N;Withdrawn
+FFF;2014J;472401;M;North Region;A Level or Equivalent;20-30%;0-35;0;180;N;Withdrawn
+FFF;2014J;474667;M;London Region;Lower Than A Level;60-70%;0-35;1;60;N;Pass
+FFF;2014J;475015;M;Wales;A Level or Equivalent;60-70%;0-35;1;60;N;Pass
+FFF;2014J;475566;M;London Region;HE Qualification;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;475699;M;South Region;A Level or Equivalent;70-80%;0-35;1;90;N;Withdrawn
+FFF;2014J;476401;M;Ireland;A Level or Equivalent;0-10%;0-35;2;90;N;Pass
+FFF;2014J;476629;F;Wales;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;477833;M;London Region;Lower Than A Level;50-60%;35-55;1;60;Y;Fail
+FFF;2014J;479939;F;North Region;No Formal quals;;0-35;0;60;N;Pass
+FFF;2014J;480303;M;Wales;Lower Than A Level;50-60%;35-55;0;60;N;Fail
+FFF;2014J;481240;M;Yorkshire Region;A Level or Equivalent;30-40%;0-35;0;150;N;Withdrawn
+FFF;2014J;481717;M;North Western Region;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;482644;M;London Region;HE Qualification;oct-20;0-35;0;60;N;Pass
+FFF;2014J;483037;M;London Region;No Formal quals;oct-20;35-55;0;60;N;Pass
+FFF;2014J;483656;F;East Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;484010;M;East Anglian Region;A Level or Equivalent;70-80%;35-55;0;60;N;Fail
+FFF;2014J;484494;M;South West Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;484594;F;South West Region;A Level or Equivalent;50-60%;35-55;0;60;N;Pass
+FFF;2014J;485228;F;Scotland;Lower Than A Level;0-10%;35-55;0;60;Y;Fail
+FFF;2014J;486087;M;Yorkshire Region;A Level or Equivalent;0-10%;0-35;0;120;N;Distinction
+FFF;2014J;486964;M;Scotland;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;488136;M;South Region;Lower Than A Level;80-90%;0-35;2;60;N;Withdrawn
+FFF;2014J;488525;M;North Region;A Level or Equivalent;;0-35;1;120;N;Pass
+FFF;2014J;489048;F;London Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;489104;F;London Region;No Formal quals;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;489493;F;North Western Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;489553;M;West Midlands Region;HE Qualification;50-60%;0-35;1;60;N;Fail
+FFF;2014J;490297;M;Scotland;Lower Than A Level;oct-20;0-35;0;150;Y;Fail
+FFF;2014J;491077;M;West Midlands Region;Lower Than A Level;0-10%;35-55;2;120;N;Withdrawn
+FFF;2014J;491126;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;Y;Pass
+FFF;2014J;491756;M;West Midlands Region;Lower Than A Level;60-70%;0-35;2;90;Y;Withdrawn
+FFF;2014J;491863;M;North Western Region;Lower Than A Level;60-70%;0-35;0;90;N;Pass
+FFF;2014J;491959;M;West Midlands Region;HE Qualification;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;492024;M;Scotland;Lower Than A Level;80-90%;0-35;0;90;N;Pass
+FFF;2014J;492557;M;North Western Region;Lower Than A Level;oct-20;0-35;2;120;N;Withdrawn
+FFF;2014J;493793;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;Y;Pass
+FFF;2014J;494046;M;Yorkshire Region;Lower Than A Level;50-60%;35-55;2;60;N;Pass
+FFF;2014J;494184;M;Ireland;Lower Than A Level;0-10%;0-35;3;90;N;Pass
+FFF;2014J;496493;F;Scotland;A Level or Equivalent;20-30%;0-35;0;60;Y;Withdrawn
+FFF;2014J;496815;M;Wales;Lower Than A Level;oct-20;0-35;2;150;N;Withdrawn
+FFF;2014J;497415;M;Ireland;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;498442;M;Ireland;A Level or Equivalent;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;499244;M;South Region;Lower Than A Level;70-80%;0-35;3;60;N;Withdrawn
+FFF;2014J;499404;F;North Western Region;A Level or Equivalent;30-40%;0-35;2;60;N;Pass
+FFF;2014J;500068;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;500618;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;120;Y;Pass
+FFF;2014J;501444;M;South Region;Lower Than A Level;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;501897;M;West Midlands Region;A Level or Equivalent;20-30%;0-35;0;150;N;Withdrawn
+FFF;2014J;502011;F;East Midlands Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;503684;M;East Anglian Region;Lower Than A Level;40-50%;35-55;1;180;N;Withdrawn
+FFF;2014J;504270;M;North Region;A Level or Equivalent;;0-35;1;60;N;Fail
+FFF;2014J;504700;M;South West Region;A Level or Equivalent;20-30%;0-35;2;60;N;Withdrawn
+FFF;2014J;505773;M;Scotland;HE Qualification;60-70%;35-55;0;60;N;Distinction
+FFF;2014J;506705;M;South West Region;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;507031;M;Scotland;A Level or Equivalent;90-100%;35-55;0;120;N;Withdrawn
+FFF;2014J;507311;M;South East Region;Lower Than A Level;oct-20;0-35;0;120;N;Fail
+FFF;2014J;507743;M;South East Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;507935;M;South East Region;A Level or Equivalent;oct-20;0-35;0;60;Y;Distinction
+FFF;2014J;508626;M;London Region;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;509177;M;Yorkshire Region;Lower Than A Level;20-30%;0-35;2;90;N;Withdrawn
+FFF;2014J;509536;M;East Midlands Region;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;510762;M;South West Region;Lower Than A Level;90-100%;0-35;0;60;N;Fail
+FFF;2014J;511246;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Fail
+FFF;2014J;511309;M;Wales;A Level or Equivalent;40-50%;0-35;1;60;N;Pass
+FFF;2014J;511350;M;Yorkshire Region;Lower Than A Level;20-30%;0-35;1;90;Y;Fail
+FFF;2014J;511859;M;South West Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;511981;M;South East Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;512335;M;South West Region;A Level or Equivalent;70-80%;35-55;4;60;N;Withdrawn
+FFF;2014J;513272;F;North Western Region;Lower Than A Level;20-30%;0-35;1;60;N;Fail
+FFF;2014J;513422;F;South East Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;513428;F;Wales;A Level or Equivalent;0-10%;0-35;2;90;N;Pass
+FFF;2014J;514078;M;North Western Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;514556;F;East Midlands Region;A Level or Equivalent;20-30%;35-55;0;180;N;Fail
+FFF;2014J;516602;M;North Region;HE Qualification;80-90%;0-35;0;60;N;Distinction
+FFF;2014J;517551;M;North Region;A Level or Equivalent;70-80%;0-35;2;60;N;Pass
+FFF;2014J;518599;M;East Anglian Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;519115;M;North Western Region;Lower Than A Level;70-80%;0-35;0;90;N;Fail
+FFF;2014J;520265;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;521032;M;East Anglian Region;Lower Than A Level;30-40%;0-35;1;150;N;Withdrawn
+FFF;2014J;521115;M;North Western Region;HE Qualification;oct-20;0-35;0;120;N;Pass
+FFF;2014J;521153;M;Wales;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;521255;M;London Region;Lower Than A Level;70-80%;0-35;2;60;N;Fail
+FFF;2014J;521703;M;East Anglian Region;Lower Than A Level;60-70%;0-35;2;120;N;Withdrawn
+FFF;2014J;522082;F;North Western Region;A Level or Equivalent;0-10%;35-55;1;60;N;Pass
+FFF;2014J;523017;M;London Region;No Formal quals;20-30%;0-35;0;60;N;Pass
+FFF;2014J;523249;M;West Midlands Region;Lower Than A Level;60-70%;0-35;0;120;N;Pass
+FFF;2014J;523589;M;London Region;A Level or Equivalent;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;524827;M;North Western Region;Lower Than A Level;oct-20;35-55;0;60;N;Withdrawn
+FFF;2014J;525523;M;Scotland;HE Qualification;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;526721;M;West Midlands Region;A Level or Equivalent;20-30%;0-35;0;120;N;Distinction
+FFF;2014J;526819;M;London Region;A Level or Equivalent;oct-20;0-35;3;90;N;Fail
+FFF;2014J;527619;M;Ireland;A Level or Equivalent;80-90%;0-35;1;90;Y;Withdrawn
+FFF;2014J;529693;M;Scotland;Lower Than A Level;30-40%;35-55;1;60;N;Pass
+FFF;2014J;529991;M;South Region;Lower Than A Level;80-90%;35-55;4;60;N;Pass
+FFF;2014J;530148;M;Scotland;A Level or Equivalent;50-60%;0-35;1;60;N;Withdrawn
+FFF;2014J;530196;F;East Midlands Region;Lower Than A Level;oct-20;0-35;1;90;N;Withdrawn
+FFF;2014J;531018;F;Scotland;HE Qualification;20-30%;0-35;0;90;N;Distinction
+FFF;2014J;531871;M;Wales;HE Qualification;40-50%;0-35;0;60;N;Pass
+FFF;2014J;532254;M;North Western Region;A Level or Equivalent;30-40%;0-35;4;120;N;Pass
+FFF;2014J;532744;M;East Anglian Region;Lower Than A Level;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;533418;M;West Midlands Region;A Level or Equivalent;;35-55;0;60;N;Distinction
+FFF;2014J;534018;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;120;Y;Withdrawn
+FFF;2014J;534112;F;Wales;A Level or Equivalent;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;534457;F;Scotland;HE Qualification;50-60%;0-35;0;60;Y;Pass
+FFF;2014J;535542;M;Scotland;Lower Than A Level;80-90%;0-35;0;150;N;Withdrawn
+FFF;2014J;535671;F;Scotland;HE Qualification;50-60%;0-35;1;90;N;Pass
+FFF;2014J;535997;F;North Western Region;Lower Than A Level;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;536351;M;South East Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;536475;M;Wales;HE Qualification;70-80%;35-55;0;60;N;Fail
+FFF;2014J;536963;F;South Region;A Level or Equivalent;60-70%;35-55;0;180;N;Pass
+FFF;2014J;537321;M;South Region;Lower Than A Level;90-100%;35-55;0;60;N;Withdrawn
+FFF;2014J;537322;M;Scotland;A Level or Equivalent;70-80%;35-55;1;120;N;Pass
+FFF;2014J;537606;F;London Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;537811;F;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;120;Y;Distinction
+FFF;2014J;539308;M;South Region;A Level or Equivalent;20-30%;0-35;1;90;N;Fail
+FFF;2014J;539913;M;London Region;Lower Than A Level;20-30%;0-35;0;210;N;Withdrawn
+FFF;2014J;539945;F;South Region;A Level or Equivalent;90-100%;0-35;1;60;N;Pass
+FFF;2014J;540155;M;London Region;Lower Than A Level;50-60%;35-55;1;180;N;Withdrawn
+FFF;2014J;540723;M;West Midlands Region;Lower Than A Level;70-80%;35-55;1;60;N;Pass
+FFF;2014J;541184;M;North Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;541532;F;North Region;HE Qualification;;0-35;0;330;N;Withdrawn
+FFF;2014J;541921;M;South East Region;HE Qualification;40-50%;35-55;1;120;N;Pass
+FFF;2014J;542202;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;542550;M;North Region;A Level or Equivalent;0-10%;35-55;2;120;N;Withdrawn
+FFF;2014J;543010;M;East Anglian Region;HE Qualification;30-40%;35-55;2;120;N;Fail
+FFF;2014J;543432;M;South Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;544141;M;Ireland;A Level or Equivalent;50-60%;0-35;0;60;N;Fail
+FFF;2014J;544745;M;South Region;A Level or Equivalent;30-40%;0-35;1;90;N;Fail
+FFF;2014J;545164;M;South East Region;Lower Than A Level;oct-20;0-35;1;60;N;Pass
+FFF;2014J;545962;F;East Anglian Region;HE Qualification;20-30%;35-55;0;90;N;Pass
+FFF;2014J;546547;F;Scotland;Lower Than A Level;20-30%;0-35;1;60;N;Pass
+FFF;2014J;546645;M;Wales;Lower Than A Level;oct-20;0-35;1;60;N;Pass
+FFF;2014J;547347;M;London Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;549219;M;East Midlands Region;A Level or Equivalent;30-40%;0-35;1;60;N;Pass
+FFF;2014J;549321;M;North Western Region;HE Qualification;60-70%;0-35;0;90;N;Distinction
+FFF;2014J;549523;F;Ireland;A Level or Equivalent;0-10%;0-35;2;120;Y;Fail
+FFF;2014J;549847;M;South East Region;Lower Than A Level;40-50%;0-35;0;90;N;Pass
+FFF;2014J;550420;M;North Region;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;550703;M;South Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;552173;M;Scotland;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;552832;M;North Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;553031;M;South Region;A Level or Equivalent;80-90%;35-55;0;60;N;Pass
+FFF;2014J;553284;F;East Midlands Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;553813;M;West Midlands Region;Lower Than A Level;40-50%;0-35;1;60;N;Pass
+FFF;2014J;554063;M;Wales;A Level or Equivalent;80-90%;0-35;0;180;Y;Distinction
+FFF;2014J;554525;M;South West Region;A Level or Equivalent;90-100%;35-55;0;60;N;Pass
+FFF;2014J;555049;M;South Region;Lower Than A Level;60-70%;0-35;0;120;N;Distinction
+FFF;2014J;555277;M;West Midlands Region;Lower Than A Level;20-30%;35-55;0;60;Y;Withdrawn
+FFF;2014J;555827;M;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;556126;M;London Region;A Level or Equivalent;80-90%;35-55;2;60;Y;Pass
+FFF;2014J;557085;F;Yorkshire Region;Lower Than A Level;20-30%;35-55;0;120;N;Distinction
+FFF;2014J;557290;M;South East Region;Lower Than A Level;0-10%;35-55;1;90;N;Pass
+FFF;2014J;557792;M;South Region;Lower Than A Level;50-60%;0-35;1;60;N;Withdrawn
+FFF;2014J;557830;M;North Western Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;558044;M;North Region;Lower Than A Level;;0-35;0;90;N;Distinction
+FFF;2014J;558342;M;Yorkshire Region;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;558764;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;559882;M;South Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;560047;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;560459;M;London Region;A Level or Equivalent;30-40%;0-35;1;60;Y;Withdrawn
+FFF;2014J;560645;M;Scotland;HE Qualification;;0-35;0;60;N;Pass
+FFF;2014J;560659;M;East Midlands Region;Lower Than A Level;30-40%;0-35;1;120;N;Withdrawn
+FFF;2014J;560765;M;East Midlands Region;Lower Than A Level;20-30%;35-55;1;120;Y;Withdrawn
+FFF;2014J;560823;M;South West Region;A Level or Equivalent;80-90%;0-35;1;120;N;Withdrawn
+FFF;2014J;561231;F;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;561311;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;561519;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;562064;F;North Western Region;A Level or Equivalent;50-60%;0-35;1;120;N;Pass
+FFF;2014J;562754;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;150;N;Pass
+FFF;2014J;562762;M;London Region;Lower Than A Level;20-30%;0-35;2;120;Y;Withdrawn
+FFF;2014J;562990;M;East Anglian Region;A Level or Equivalent;30-40%;0-35;0;150;N;Pass
+FFF;2014J;563108;F;East Anglian Region;Lower Than A Level;60-70%;35-55;0;60;N;Pass
+FFF;2014J;563414;M;East Midlands Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;564243;M;North Western Region;Lower Than A Level;50-60%;0-35;0;90;N;Pass
+FFF;2014J;564617;F;East Anglian Region;Lower Than A Level;20-30%;35-55;0;60;N;Fail
+FFF;2014J;564770;M;South West Region;Lower Than A Level;70-80%;0-35;2;90;N;Fail
+FFF;2014J;564821;M;North Region;Lower Than A Level;0-10%;0-35;1;60;N;Withdrawn
+FFF;2014J;564933;M;East Anglian Region;A Level or Equivalent;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;565017;M;South Region;Lower Than A Level;80-90%;35-55;0;60;N;Pass
+FFF;2014J;565474;M;East Midlands Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;566823;M;London Region;A Level or Equivalent;oct-20;0-35;1;60;N;Fail
+FFF;2014J;567213;M;South Region;A Level or Equivalent;90-100%;35-55;1;60;N;Withdrawn
+FFF;2014J;568443;F;North Western Region;Lower Than A Level;30-40%;35-55;0;120;Y;Withdrawn
+FFF;2014J;568447;M;South Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;568987;F;South Region;A Level or Equivalent;oct-20;0-35;1;90;N;Fail
+FFF;2014J;568998;M;South Region;A Level or Equivalent;50-60%;0-35;1;60;Y;Withdrawn
+FFF;2014J;569034;F;North Western Region;Lower Than A Level;80-90%;35-55;0;60;N;Pass
+FFF;2014J;569080;M;London Region;A Level or Equivalent;oct-20;35-55;0;90;N;Pass
+FFF;2014J;569108;M;South East Region;A Level or Equivalent;70-80%;0-35;0;90;Y;Distinction
+FFF;2014J;569556;F;North Region;A Level or Equivalent;0-10%;0-35;2;180;N;Withdrawn
+FFF;2014J;569745;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;569876;M;North Region;HE Qualification;;0-35;0;90;N;Pass
+FFF;2014J;570004;M;East Anglian Region;Lower Than A Level;80-90%;0-35;1;60;Y;Fail
+FFF;2014J;570213;M;South Region;A Level or Equivalent;70-80%;35-55;1;60;N;Fail
+FFF;2014J;570280;M;Ireland;A Level or Equivalent;90-100%;0-35;1;120;N;Fail
+FFF;2014J;570689;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;1;60;N;Fail
+FFF;2014J;571074;F;South East Region;A Level or Equivalent;90-100%;35-55;0;120;N;Distinction
+FFF;2014J;571932;M;South East Region;Lower Than A Level;90-100%;0-35;0;120;Y;Withdrawn
+FFF;2014J;571950;M;North Western Region;No Formal quals;0-10%;35-55;0;270;N;Withdrawn
+FFF;2014J;572071;M;East Midlands Region;Lower Than A Level;70-80%;0-35;1;60;N;Fail
+FFF;2014J;572074;F;South West Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;572213;F;East Anglian Region;HE Qualification;90-100%;0-35;1;60;N;Distinction
+FFF;2014J;572265;M;London Region;A Level or Equivalent;30-40%;0-35;1;90;N;Fail
+FFF;2014J;572804;M;Wales;A Level or Equivalent;60-70%;0-35;1;60;N;Withdrawn
+FFF;2014J;573007;M;Ireland;Lower Than A Level;70-80%;0-35;1;90;N;Withdrawn
+FFF;2014J;573291;M;South Region;A Level or Equivalent;50-60%;35-55;1;60;N;Withdrawn
+FFF;2014J;573481;M;South West Region;A Level or Equivalent;oct-20;0-35;1;120;N;Withdrawn
+FFF;2014J;573583;M;Scotland;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;573697;F;South Region;HE Qualification;70-80%;0-35;1;60;N;Withdrawn
+FFF;2014J;574068;M;West Midlands Region;A Level or Equivalent;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;574527;M;London Region;Lower Than A Level;20-30%;0-35;0;60;Y;Fail
+FFF;2014J;574638;M;East Midlands Region;Lower Than A Level;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;574695;M;Scotland;Lower Than A Level;90-100%;35-55;1;120;N;Withdrawn
+FFF;2014J;575069;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;180;N;Pass
+FFF;2014J;575112;M;Yorkshire Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;575302;M;North Region;Lower Than A Level;20-30%;35-55;0;90;N;Pass
+FFF;2014J;575685;M;London Region;A Level or Equivalent;oct-20;0-35;1;60;N;Fail
+FFF;2014J;575710;M;North Western Region;HE Qualification;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;575983;M;South West Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;576140;F;North Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;576423;M;London Region;A Level or Equivalent;oct-20;0-35;1;120;N;Withdrawn
+FFF;2014J;577032;M;South East Region;Lower Than A Level;50-60%;0-35;0;60;Y;Fail
+FFF;2014J;577429;M;Scotland;HE Qualification;80-90%;35-55;0;180;N;Fail
+FFF;2014J;577533;M;East Midlands Region;A Level or Equivalent;30-40%;0-35;1;90;N;Pass
+FFF;2014J;577950;M;South East Region;Lower Than A Level;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;578152;M;Wales;Lower Than A Level;90-100%;0-35;1;60;N;Pass
+FFF;2014J;578495;M;South East Region;HE Qualification;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;578573;M;Wales;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;578847;M;Ireland;A Level or Equivalent;90-100%;0-35;0;60;Y;Distinction
+FFF;2014J;579221;F;Scotland;Lower Than A Level;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;579660;M;London Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;579686;M;Wales;A Level or Equivalent;40-50%;0-35;0;90;N;Pass
+FFF;2014J;580459;M;North Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;580834;M;East Anglian Region;Lower Than A Level;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;580845;M;Scotland;HE Qualification;30-40%;0-35;0;120;N;Pass
+FFF;2014J;580926;M;North Western Region;Lower Than A Level;30-40%;0-35;2;120;Y;Fail
+FFF;2014J;581219;M;North Western Region;Lower Than A Level;80-90%;0-35;1;60;N;Fail
+FFF;2014J;581253;M;West Midlands Region;Lower Than A Level;50-60%;35-55;1;120;N;Pass
+FFF;2014J;581659;F;South Region;Lower Than A Level;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;581779;F;Scotland;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;582034;M;Yorkshire Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;582117;M;South West Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;582141;M;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;90;N;Fail
+FFF;2014J;582266;M;South West Region;Lower Than A Level;30-40%;0-35;0;150;N;Fail
+FFF;2014J;582332;M;Scotland;Post Graduate Qualification;60-70%;35-55;0;60;N;Distinction
+FFF;2014J;582530;M;North Western Region;HE Qualification;0-10%;35-55;1;150;N;Fail
+FFF;2014J;582653;M;South Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;582670;M;South Region;Lower Than A Level;90-100%;35-55;0;60;Y;Fail
+FFF;2014J;582749;M;South Region;Lower Than A Level;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;583056;M;Ireland;A Level or Equivalent;60-70%;0-35;1;60;N;Fail
+FFF;2014J;583318;M;South Region;A Level or Equivalent;40-50%;0-35;0;90;Y;Pass
+FFF;2014J;583487;M;Scotland;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;584210;M;South West Region;Lower Than A Level;70-80%;0-35;1;60;N;Withdrawn
+FFF;2014J;584362;M;West Midlands Region;A Level or Equivalent;50-60%;0-35;1;120;N;Withdrawn
+FFF;2014J;584515;F;Yorkshire Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;584594;M;South East Region;A Level or Equivalent;40-50%;0-35;1;60;N;Withdrawn
+FFF;2014J;584673;M;London Region;A Level or Equivalent;oct-20;0-35;1;90;N;Fail
+FFF;2014J;585021;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;180;N;Withdrawn
+FFF;2014J;585224;M;Wales;Lower Than A Level;50-60%;0-35;1;60;N;Pass
+FFF;2014J;585261;M;North Western Region;HE Qualification;20-30%;35-55;0;60;N;Pass
+FFF;2014J;585284;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;585301;M;North Region;A Level or Equivalent;30-40%;0-35;1;120;N;Withdrawn
+FFF;2014J;585503;M;North Region;HE Qualification;;35-55;0;120;N;Distinction
+FFF;2014J;585572;M;East Midlands Region;Lower Than A Level;0-10%;0-35;0;120;N;Fail
+FFF;2014J;585724;M;Yorkshire Region;Lower Than A Level;0-10%;35-55;1;90;N;Fail
+FFF;2014J;585825;M;Wales;Lower Than A Level;80-90%;0-35;1;60;N;Withdrawn
+FFF;2014J;585958;M;South West Region;Lower Than A Level;90-100%;0-35;0;90;Y;Pass
+FFF;2014J;586282;F;East Midlands Region;Lower Than A Level;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;586811;M;South Region;A Level or Equivalent;90-100%;0-35;1;60;N;Fail
+FFF;2014J;586906;M;Scotland;HE Qualification;30-40%;0-35;2;60;Y;Pass
+FFF;2014J;587509;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;150;N;Fail
+FFF;2014J;587571;M;London Region;A Level or Equivalent;0-10%;35-55;0;60;N;Distinction
+FFF;2014J;587654;M;South Region;A Level or Equivalent;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;587706;M;Scotland;HE Qualification;oct-20;0-35;0;60;N;Fail
+FFF;2014J;588128;M;East Anglian Region;A Level or Equivalent;oct-20;0-35;1;90;N;Pass
+FFF;2014J;588628;M;South West Region;A Level or Equivalent;60-70%;55<=;0;60;N;Pass
+FFF;2014J;589080;M;North Region;HE Qualification;;0-35;0;60;N;Distinction
+FFF;2014J;589162;M;London Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;589332;F;Scotland;A Level or Equivalent;40-50%;35-55;0;90;N;Pass
+FFF;2014J;589389;M;South West Region;Lower Than A Level;40-50%;0-35;0;90;N;Pass
+FFF;2014J;589441;M;South Region;Lower Than A Level;70-80%;0-35;1;90;N;Withdrawn
+FFF;2014J;589798;M;East Anglian Region;Lower Than A Level;30-40%;0-35;1;210;N;Withdrawn
+FFF;2014J;589828;M;East Anglian Region;Lower Than A Level;60-70%;0-35;1;60;Y;Pass
+FFF;2014J;590120;F;Scotland;HE Qualification;40-50%;0-35;0;60;N;Pass
+FFF;2014J;590381;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;590462;M;North Western Region;A Level or Equivalent;0-10%;0-35;1;120;N;Withdrawn
+FFF;2014J;590543;M;South Region;Lower Than A Level;40-50%;0-35;1;60;N;Fail
+FFF;2014J;590818;M;West Midlands Region;A Level or Equivalent;80-90%;0-35;0;60;N;Fail
+FFF;2014J;591525;M;South East Region;A Level or Equivalent;70-80%;35-55;0;120;N;Pass
+FFF;2014J;591581;M;South East Region;Lower Than A Level;oct-20;0-35;1;150;N;Pass
+FFF;2014J;591655;M;North Region;Lower Than A Level;70-80%;0-35;1;90;N;Fail
+FFF;2014J;591746;M;Wales;HE Qualification;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;591946;M;Wales;A Level or Equivalent;oct-20;0-35;1;90;N;Pass
+FFF;2014J;592218;F;South West Region;A Level or Equivalent;90-100%;35-55;0;60;N;Pass
+FFF;2014J;592233;M;Yorkshire Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;592295;M;South Region;Lower Than A Level;90-100%;0-35;0;60;Y;Pass
+FFF;2014J;592558;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;592657;F;London Region;Lower Than A Level;oct-20;35-55;0;120;Y;Withdrawn
+FFF;2014J;592939;M;Scotland;HE Qualification;0-10%;0-35;2;90;N;Pass
+FFF;2014J;593136;F;West Midlands Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;593563;M;South Region;Lower Than A Level;90-100%;35-55;1;90;N;Pass
+FFF;2014J;593722;M;London Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;593796;F;East Anglian Region;Lower Than A Level;40-50%;0-35;0;60;Y;Distinction
+FFF;2014J;594065;M;South East Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;594122;M;North Region;A Level or Equivalent;20-30%;0-35;1;120;N;Pass
+FFF;2014J;594229;M;South West Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;594258;M;North Western Region;Lower Than A Level;0-10%;0-35;1;90;Y;Fail
+FFF;2014J;594406;M;North Western Region;HE Qualification;0-10%;0-35;1;180;N;Fail
+FFF;2014J;594615;M;Wales;Lower Than A Level;80-90%;35-55;1;60;N;Fail
+FFF;2014J;594636;M;South Region;Lower Than A Level;60-70%;0-35;1;120;Y;Pass
+FFF;2014J;595246;M;North Western Region;Lower Than A Level;20-30%;0-35;1;60;N;Withdrawn
+FFF;2014J;595262;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;595673;M;South Region;A Level or Equivalent;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;595676;M;London Region;Lower Than A Level;oct-20;35-55;1;60;N;Fail
+FFF;2014J;595721;M;London Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;595943;M;South Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;596052;M;South East Region;Lower Than A Level;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;596203;F;North Region;Lower Than A Level;0-10%;35-55;0;90;N;Withdrawn
+FFF;2014J;596243;M;East Anglian Region;Lower Than A Level;oct-20;0-35;1;60;Y;Pass
+FFF;2014J;596245;M;South East Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;596253;M;East Anglian Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;596464;M;Scotland;Lower Than A Level;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;596693;M;West Midlands Region;Lower Than A Level;0-10%;0-35;1;120;N;Withdrawn
+FFF;2014J;596758;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;596805;M;Scotland;HE Qualification;;0-35;2;60;N;Withdrawn
+FFF;2014J;597391;M;South East Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;597740;M;South West Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;597937;M;South Region;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;598308;M;Ireland;Post Graduate Qualification;;0-35;1;90;N;Pass
+FFF;2014J;598442;M;North Western Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;598540;M;North Western Region;Lower Than A Level;80-90%;35-55;0;90;N;Pass
+FFF;2014J;598559;M;Yorkshire Region;A Level or Equivalent;30-40%;0-35;0;60;Y;Pass
+FFF;2014J;598582;M;Scotland;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;598757;M;South Region;A Level or Equivalent;90-100%;35-55;1;90;N;Fail
+FFF;2014J;598939;M;London Region;Lower Than A Level;40-50%;35-55;0;120;N;Withdrawn
+FFF;2014J;599007;M;South East Region;A Level or Equivalent;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;599297;M;Yorkshire Region;A Level or Equivalent;oct-20;0-35;1;120;N;Fail
+FFF;2014J;599865;M;South East Region;A Level or Equivalent;30-40%;35-55;0;60;N;Fail
+FFF;2014J;600071;M;North Region;Post Graduate Qualification;;35-55;0;60;N;Pass
+FFF;2014J;600405;M;Wales;Lower Than A Level;90-100%;0-35;1;120;N;Fail
+FFF;2014J;600615;M;South West Region;Lower Than A Level;0-10%;0-35;1;60;N;Withdrawn
+FFF;2014J;600773;M;London Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;600893;F;Yorkshire Region;Lower Than A Level;0-10%;0-35;1;180;N;Fail
+FFF;2014J;601008;M;Wales;Lower Than A Level;50-60%;0-35;1;180;N;Pass
+FFF;2014J;601180;M;Scotland;HE Qualification;70-80%;35-55;1;60;N;Fail
+FFF;2014J;601235;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;120;N;Pass
+FFF;2014J;601271;M;South West Region;Lower Than A Level;40-50%;0-35;1;60;Y;Fail
+FFF;2014J;601680;M;London Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;601820;M;North Region;HE Qualification;;0-35;0;120;N;Pass
+FFF;2014J;602502;M;Scotland;A Level or Equivalent;70-80%;0-35;1;120;Y;Fail
+FFF;2014J;602594;M;South Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;603423;M;North Region;A Level or Equivalent;0-10%;35-55;1;60;N;Fail
+FFF;2014J;603648;M;Scotland;HE Qualification;90-100%;0-35;0;60;N;Pass
+FFF;2014J;603931;M;North Region;Lower Than A Level;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;604142;M;West Midlands Region;Lower Than A Level;0-10%;0-35;1;120;N;Withdrawn
+FFF;2014J;604567;M;Scotland;HE Qualification;60-70%;35-55;0;60;N;Pass
+FFF;2014J;604614;M;London Region;A Level or Equivalent;30-40%;0-35;1;120;N;Pass
+FFF;2014J;604652;F;East Midlands Region;Lower Than A Level;40-50%;35-55;0;300;N;Withdrawn
+FFF;2014J;604907;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;605091;M;South East Region;No Formal quals;20-30%;0-35;1;60;N;Fail
+FFF;2014J;605180;M;North Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;605228;F;London Region;Lower Than A Level;70-80%;0-35;2;120;N;Fail
+FFF;2014J;605394;M;North Western Region;A Level or Equivalent;80-90%;0-35;1;90;N;Fail
+FFF;2014J;605682;M;North Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;606257;F;North Region;HE Qualification;;0-35;0;120;N;Pass
+FFF;2014J;606293;F;Scotland;HE Qualification;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;606428;M;North Region;A Level or Equivalent;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;606805;M;London Region;A Level or Equivalent;40-50%;0-35;1;90;N;Withdrawn
+FFF;2014J;606904;F;South Region;A Level or Equivalent;80-90%;0-35;1;90;N;Fail
+FFF;2014J;607243;M;London Region;Lower Than A Level;20-30%;0-35;0;60;Y;Pass
+FFF;2014J;607303;F;West Midlands Region;Lower Than A Level;60-70%;35-55;0;60;N;Pass
+FFF;2014J;607501;M;London Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;607533;F;South West Region;Lower Than A Level;oct-20;0-35;1;90;N;Withdrawn
+FFF;2014J;607679;M;Wales;A Level or Equivalent;oct-20;0-35;0;90;N;Pass
+FFF;2014J;607700;M;Ireland;A Level or Equivalent;;35-55;0;90;N;Pass
+FFF;2014J;607733;F;London Region;A Level or Equivalent;60-70%;0-35;0;90;N;Withdrawn
+FFF;2014J;607866;M;South Region;Lower Than A Level;40-50%;0-35;1;60;Y;Pass
+FFF;2014J;608248;M;Yorkshire Region;A Level or Equivalent;80-90%;0-35;1;90;N;Fail
+FFF;2014J;609142;F;East Anglian Region;A Level or Equivalent;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;609240;M;West Midlands Region;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;611465;M;Yorkshire Region;Lower Than A Level;70-80%;0-35;1;120;N;Withdrawn
+FFF;2014J;611603;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;612763;M;London Region;Lower Than A Level;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;612842;F;East Midlands Region;A Level or Equivalent;70-80%;35-55;0;60;N;Pass
+FFF;2014J;613165;F;Yorkshire Region;A Level or Equivalent;20-30%;0-35;0;120;N;Pass
+FFF;2014J;613330;F;London Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;613634;M;South Region;Lower Than A Level;60-70%;0-35;0;60;Y;Pass
+FFF;2014J;613899;M;North Region;Lower Than A Level;;35-55;0;120;N;Distinction
+FFF;2014J;613966;M;Scotland;A Level or Equivalent;20-30%;0-35;0;60;N;Fail
+FFF;2014J;614059;M;South Region;HE Qualification;90-100%;35-55;1;60;Y;Pass
+FFF;2014J;614984;M;South West Region;Lower Than A Level;0-10%;35-55;1;60;N;Pass
+FFF;2014J;615266;F;South Region;A Level or Equivalent;30-40%;0-35;0;120;N;Distinction
+FFF;2014J;615299;F;Wales;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;615301;F;Wales;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;615302;M;Wales;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;615306;M;Wales;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;615328;F;Wales;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;615340;F;Wales;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;615342;F;Wales;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;615356;F;Wales;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;616517;M;London Region;A Level or Equivalent;90-100%;0-35;1;120;N;Distinction
+FFF;2014J;616912;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;617010;F;North Western Region;A Level or Equivalent;0-10%;0-35;1;60;N;Pass
+FFF;2014J;617119;F;Wales;A Level or Equivalent;80-90%;35-55;0;60;N;Pass
+FFF;2014J;617130;M;Ireland;A Level or Equivalent;90-100%;0-35;1;120;N;Withdrawn
+FFF;2014J;617150;M;South East Region;Lower Than A Level;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;617332;M;Wales;A Level or Equivalent;40-50%;0-35;1;120;N;Fail
+FFF;2014J;617436;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;617580;F;South Region;Lower Than A Level;40-50%;0-35;0;60;Y;Pass
+FFF;2014J;617783;M;East Midlands Region;HE Qualification;oct-20;0-35;0;60;N;Fail
+FFF;2014J;617922;M;Scotland;A Level or Equivalent;0-10%;35-55;0;60;N;Pass
+FFF;2014J;618252;M;Yorkshire Region;A Level or Equivalent;0-10%;35-55;0;90;N;Withdrawn
+FFF;2014J;618663;F;West Midlands Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;619204;F;South Region;Lower Than A Level;60-70%;0-35;1;90;N;Pass
+FFF;2014J;619292;M;North Region;A Level or Equivalent;;35-55;0;60;N;Distinction
+FFF;2014J;619321;M;West Midlands Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;619502;M;Scotland;HE Qualification;oct-20;0-35;1;60;N;Pass
+FFF;2014J;619863;F;South East Region;HE Qualification;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;619887;M;East Midlands Region;Lower Than A Level;50-60%;0-35;1;120;N;Withdrawn
+FFF;2014J;620094;F;London Region;HE Qualification;90-100%;35-55;0;90;N;Distinction
+FFF;2014J;620112;M;South East Region;Lower Than A Level;60-70%;0-35;1;60;N;Withdrawn
+FFF;2014J;620269;M;East Midlands Region;A Level or Equivalent;70-80%;0-35;0;60;Y;Pass
+FFF;2014J;620349;M;South East Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;620431;M;South Region;A Level or Equivalent;30-40%;0-35;1;60;N;Pass
+FFF;2014J;620740;M;South East Region;A Level or Equivalent;90-100%;35-55;0;60;N;Pass
+FFF;2014J;620750;F;South East Region;Lower Than A Level;30-40%;0-35;1;60;N;Withdrawn
+FFF;2014J;620810;M;London Region;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;620824;M;London Region;A Level or Equivalent;0-10%;0-35;1;90;N;Fail
+FFF;2014J;621307;M;London Region;No Formal quals;20-30%;0-35;1;120;N;Withdrawn
+FFF;2014J;622029;M;West Midlands Region;Lower Than A Level;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;622275;M;South East Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;622362;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;622481;M;North Western Region;Lower Than A Level;70-80%;0-35;0;60;N;Distinction
+FFF;2014J;622760;M;Yorkshire Region;A Level or Equivalent;80-90%;0-35;0;60;N;Distinction
+FFF;2014J;622899;M;London Region;Post Graduate Qualification;30-40%;35-55;1;90;N;Withdrawn
+FFF;2014J;622910;M;Ireland;Lower Than A Level;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;622934;M;Wales;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;622967;M;Scotland;Lower Than A Level;0-10%;35-55;0;90;N;Fail
+FFF;2014J;623166;M;North Western Region;A Level or Equivalent;30-40%;35-55;0;120;Y;Withdrawn
+FFF;2014J;623230;M;Scotland;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;623471;M;Ireland;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;623589;F;Yorkshire Region;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;623763;M;South East Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;623765;F;North Western Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;623917;M;South Region;Lower Than A Level;30-40%;35-55;1;90;N;Withdrawn
+FFF;2014J;623945;M;West Midlands Region;HE Qualification;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;623955;M;South Region;A Level or Equivalent;70-80%;0-35;0;120;N;Fail
+FFF;2014J;624282;M;London Region;HE Qualification;20-30%;35-55;0;60;N;Distinction
+FFF;2014J;624740;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;624864;M;Ireland;A Level or Equivalent;30-40%;0-35;0;120;N;Distinction
+FFF;2014J;624970;F;Scotland;HE Qualification;70-80%;0-35;1;60;N;Pass
+FFF;2014J;625245;M;South East Region;A Level or Equivalent;0-10%;35-55;0;60;N;Pass
+FFF;2014J;625330;M;Scotland;A Level or Equivalent;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;625515;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;625609;M;North Western Region;Lower Than A Level;30-40%;0-35;1;60;N;Fail
+FFF;2014J;625743;M;South Region;A Level or Equivalent;50-60%;0-35;0;90;N;Pass
+FFF;2014J;625802;M;South West Region;Lower Than A Level;0-10%;0-35;0;120;N;Fail
+FFF;2014J;625838;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;626033;M;Ireland;A Level or Equivalent;;0-35;0;150;N;Distinction
+FFF;2014J;626349;M;Scotland;A Level or Equivalent;30-40%;0-35;1;60;N;Fail
+FFF;2014J;626416;F;South Region;A Level or Equivalent;40-50%;0-35;0;60;Y;Distinction
+FFF;2014J;626454;F;London Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;626477;F;East Midlands Region;Lower Than A Level;40-50%;0-35;0;180;N;Pass
+FFF;2014J;626514;M;East Anglian Region;HE Qualification;90-100%;35-55;0;60;N;Pass
+FFF;2014J;626539;M;South Region;Lower Than A Level;20-30%;0-35;1;60;N;Withdrawn
+FFF;2014J;626552;F;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;300;N;Pass
+FFF;2014J;626579;F;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;627238;M;Scotland;Lower Than A Level;40-50%;0-35;1;90;N;Withdrawn
+FFF;2014J;627365;F;South East Region;Lower Than A Level;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;627379;M;London Region;Lower Than A Level;30-40%;0-35;1;90;N;Withdrawn
+FFF;2014J;627443;M;London Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;627829;M;London Region;Lower Than A Level;30-40%;35-55;1;150;N;Pass
+FFF;2014J;627840;M;North Western Region;A Level or Equivalent;70-80%;35-55;1;60;N;Withdrawn
+FFF;2014J;628054;M;East Midlands Region;Lower Than A Level;40-50%;35-55;0;150;N;Withdrawn
+FFF;2014J;628149;M;Ireland;Lower Than A Level;0-10%;0-35;0;90;N;Pass
+FFF;2014J;628157;F;North Western Region;A Level or Equivalent;oct-20;0-35;0;90;N;Pass
+FFF;2014J;628308;M;South West Region;Lower Than A Level;20-30%;0-35;0;60;Y;Withdrawn
+FFF;2014J;628363;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Fail
+FFF;2014J;628383;M;London Region;HE Qualification;20-30%;0-35;0;90;N;Pass
+FFF;2014J;628521;M;West Midlands Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;628888;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;60;N;Pass
+FFF;2014J;628964;M;London Region;A Level or Equivalent;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;629029;M;West Midlands Region;Lower Than A Level;0-10%;35-55;0;60;N;Fail
+FFF;2014J;629182;M;East Anglian Region;A Level or Equivalent;60-70%;35-55;1;60;N;Fail
+FFF;2014J;629394;M;Scotland;A Level or Equivalent;20-30%;0-35;1;60;N;Withdrawn
+FFF;2014J;629491;M;London Region;Lower Than A Level;0-10%;35-55;0;90;N;Pass
+FFF;2014J;629522;M;South Region;Lower Than A Level;90-100%;35-55;1;60;N;Withdrawn
+FFF;2014J;629594;M;East Midlands Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;629686;M;Wales;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;629818;M;Wales;A Level or Equivalent;0-10%;35-55;1;90;N;Distinction
+FFF;2014J;629907;F;North Western Region;Lower Than A Level;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;629922;F;London Region;HE Qualification;20-30%;0-35;0;60;N;Pass
+FFF;2014J;629944;M;North Western Region;A Level or Equivalent;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;630024;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;630109;M;London Region;A Level or Equivalent;oct-20;0-35;1;60;N;Pass
+FFF;2014J;630158;M;North Western Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;630168;M;South East Region;A Level or Equivalent;20-30%;0-35;1;60;Y;Withdrawn
+FFF;2014J;630186;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;630289;F;Scotland;HE Qualification;50-60%;35-55;0;150;Y;Withdrawn
+FFF;2014J;630358;M;North Western Region;Lower Than A Level;0-10%;35-55;0;60;N;Withdrawn
+FFF;2014J;630510;M;South East Region;A Level or Equivalent;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;630745;M;London Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;630835;F;South Region;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;630905;M;Wales;HE Qualification;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;630910;M;South West Region;A Level or Equivalent;20-30%;35-55;0;60;N;Pass
+FFF;2014J;630992;F;East Midlands Region;A Level or Equivalent;80-90%;0-35;1;60;N;Fail
+FFF;2014J;631075;M;Scotland;A Level or Equivalent;80-90%;0-35;1;90;N;Fail
+FFF;2014J;631193;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;120;Y;Withdrawn
+FFF;2014J;631438;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;631524;M;South West Region;A Level or Equivalent;20-30%;0-35;1;60;Y;Fail
+FFF;2014J;631658;M;East Anglian Region;Lower Than A Level;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;631681;F;North Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;631715;M;South Region;HE Qualification;50-60%;35-55;0;90;N;Distinction
+FFF;2014J;631740;F;Wales;Lower Than A Level;0-10%;0-35;0;60;Y;Pass
+FFF;2014J;631750;M;South East Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;631772;M;Scotland;Lower Than A Level;90-100%;35-55;0;120;N;Withdrawn
+FFF;2014J;631837;M;Scotland;HE Qualification;60-70%;35-55;0;90;N;Distinction
+FFF;2014J;631924;F;North Western Region;A Level or Equivalent;90-100%;0-35;0;120;N;Distinction
+FFF;2014J;632074;M;Scotland;A Level or Equivalent;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;632179;F;East Midlands Region;Lower Than A Level;30-40%;0-35;1;90;N;Withdrawn
+FFF;2014J;632276;F;South Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;632290;M;North Region;A Level or Equivalent;0-10%;0-35;1;60;N;Pass
+FFF;2014J;632458;M;North Region;Lower Than A Level;0-10%;35-55;0;60;N;Distinction
+FFF;2014J;632556;M;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Fail
+FFF;2014J;632597;M;Wales;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;632634;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;1;60;Y;Withdrawn
+FFF;2014J;632773;M;West Midlands Region;HE Qualification;50-60%;0-35;1;60;N;Withdrawn
+FFF;2014J;632826;M;East Anglian Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;632836;F;London Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;633079;F;Scotland;Post Graduate Qualification;80-90%;0-35;0;60;N;Pass
+FFF;2014J;633516;M;Ireland;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;633555;M;Yorkshire Region;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;633568;M;North Western Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;633628;M;Ireland;A Level or Equivalent;20-30%;0-35;1;60;N;Fail
+FFF;2014J;633867;M;Scotland;Lower Than A Level;60-70%;0-35;0;90;N;Pass
+FFF;2014J;633931;M;East Midlands Region;A Level or Equivalent;30-40%;35-55;0;90;N;Distinction
+FFF;2014J;634088;M;North Region;A Level or Equivalent;;0-35;1;90;N;Distinction
+FFF;2014J;634114;M;Scotland;Lower Than A Level;0-10%;0-35;1;60;Y;Fail
+FFF;2014J;634512;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;634526;M;North Region;A Level or Equivalent;;0-35;1;90;N;Pass
+FFF;2014J;634601;F;West Midlands Region;A Level or Equivalent;50-60%;0-35;0;90;N;Fail
+FFF;2014J;634749;M;South East Region;Lower Than A Level;80-90%;35-55;0;90;N;Pass
+FFF;2014J;634888;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;Y;Fail
+FFF;2014J;634943;M;South Region;HE Qualification;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;635079;M;Scotland;A Level or Equivalent;40-50%;35-55;1;60;N;Fail
+FFF;2014J;635165;M;South East Region;A Level or Equivalent;30-40%;0-35;0;120;Y;Withdrawn
+FFF;2014J;635184;M;Ireland;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;635191;M;West Midlands Region;Lower Than A Level;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;635271;F;London Region;A Level or Equivalent;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;635410;M;South Region;A Level or Equivalent;40-50%;0-35;0;150;Y;Fail
+FFF;2014J;635746;M;Yorkshire Region;A Level or Equivalent;0-10%;0-35;0;90;Y;Withdrawn
+FFF;2014J;635751;M;London Region;Lower Than A Level;30-40%;0-35;0;60;N;Fail
+FFF;2014J;635795;M;Scotland;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;635903;M;Yorkshire Region;Lower Than A Level;40-50%;0-35;0;60;N;Fail
+FFF;2014J;635985;M;North Western Region;A Level or Equivalent;80-90%;0-35;0;120;N;Fail
+FFF;2014J;636314;M;Scotland;HE Qualification;20-30%;0-35;0;60;N;Pass
+FFF;2014J;636375;M;South West Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;636400;F;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;636407;M;Scotland;HE Qualification;0-10%;35-55;0;120;N;Fail
+FFF;2014J;636408;F;Wales;A Level or Equivalent;oct-20;35-55;0;60;N;Pass
+FFF;2014J;636469;M;Scotland;A Level or Equivalent;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;636492;F;London Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;636547;M;West Midlands Region;HE Qualification;60-70%;0-35;0;120;N;Fail
+FFF;2014J;636565;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;90;N;Pass
+FFF;2014J;636634;F;East Midlands Region;Lower Than A Level;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;636653;M;West Midlands Region;Lower Than A Level;30-40%;0-35;0;120;N;Fail
+FFF;2014J;636656;M;East Anglian Region;A Level or Equivalent;20-30%;0-35;0;120;N;Pass
+FFF;2014J;636704;F;South Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;636749;F;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;240;Y;Withdrawn
+FFF;2014J;636783;M;North Region;HE Qualification;40-50%;0-35;0;150;N;Distinction
+FFF;2014J;636830;M;Scotland;HE Qualification;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;636832;M;Wales;A Level or Equivalent;30-40%;35-55;0;120;N;Pass
+FFF;2014J;637004;F;North Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;637089;M;Wales;A Level or Equivalent;70-80%;0-35;0;180;N;Fail
+FFF;2014J;637338;M;East Anglian Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;637358;M;Wales;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;637474;F;London Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;637509;F;Ireland;Lower Than A Level;;0-35;0;150;N;Fail
+FFF;2014J;637514;M;Yorkshire Region;A Level or Equivalent;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;637563;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Fail
+FFF;2014J;637582;M;East Anglian Region;HE Qualification;20-30%;35-55;0;90;N;Fail
+FFF;2014J;637708;M;East Anglian Region;HE Qualification;80-90%;0-35;0;120;N;Distinction
+FFF;2014J;637788;M;East Midlands Region;Lower Than A Level;20-30%;0-35;0;60;Y;Fail
+FFF;2014J;637800;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;637906;M;Wales;Lower Than A Level;50-60%;35-55;0;90;N;Pass
+FFF;2014J;637939;M;South West Region;A Level or Equivalent;0-10%;0-35;0;150;N;Fail
+FFF;2014J;637980;F;Scotland;HE Qualification;50-60%;0-35;0;60;N;Pass
+FFF;2014J;638034;M;Scotland;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;638388;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;638411;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;638414;M;South Region;Lower Than A Level;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;638425;M;South East Region;A Level or Equivalent;40-50%;35-55;0;60;N;Withdrawn
+FFF;2014J;638498;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;638515;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;638625;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;638655;M;South East Region;A Level or Equivalent;50-60%;0-35;0;90;N;Pass
+FFF;2014J;638677;F;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;638831;M;Yorkshire Region;Lower Than A Level;70-80%;0-35;0;90;N;Fail
+FFF;2014J;639028;F;London Region;Lower Than A Level;20-30%;0-35;0;90;N;Pass
+FFF;2014J;639231;M;London Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;639234;M;Scotland;A Level or Equivalent;40-50%;0-35;0;120;Y;Withdrawn
+FFF;2014J;639238;M;North Western Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;639522;M;South East Region;A Level or Equivalent;30-40%;0-35;0;90;N;Pass
+FFF;2014J;639919;M;East Anglian Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;639993;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;60;Y;Withdrawn
+FFF;2014J;640098;F;Scotland;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;640140;M;London Region;Lower Than A Level;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;640278;M;Scotland;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;640329;F;London Region;A Level or Equivalent;70-80%;0-35;0;180;N;Pass
+FFF;2014J;640393;M;Scotland;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;640429;M;North Western Region;A Level or Equivalent;30-40%;0-35;0;90;N;Distinction
+FFF;2014J;640552;M;North Western Region;Lower Than A Level;40-50%;35-55;0;120;Y;Withdrawn
+FFF;2014J;640584;M;East Midlands Region;Lower Than A Level;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;640711;F;Wales;Lower Than A Level;oct-20;35-55;0;90;Y;Pass
+FFF;2014J;640752;M;North Western Region;HE Qualification;50-60%;0-35;0;60;N;Pass
+FFF;2014J;640774;M;London Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;640848;F;West Midlands Region;Lower Than A Level;30-40%;0-35;0;90;N;Pass
+FFF;2014J;640892;M;North Western Region;A Level or Equivalent;20-30%;35-55;0;60;Y;Pass
+FFF;2014J;640913;M;West Midlands Region;Lower Than A Level;80-90%;0-35;0;90;N;Pass
+FFF;2014J;640927;M;South Region;HE Qualification;50-60%;0-35;0;60;N;Pass
+FFF;2014J;641028;M;North Western Region;Lower Than A Level;30-40%;0-35;0;60;N;Fail
+FFF;2014J;641085;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;90;N;Fail
+FFF;2014J;641137;M;East Anglian Region;Lower Than A Level;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;641169;M;East Anglian Region;Lower Than A Level;50-60%;35-55;0;90;N;Withdrawn
+FFF;2014J;641265;M;Wales;A Level or Equivalent;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;641275;M;North Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;641307;M;North Western Region;A Level or Equivalent;20-30%;55<=;0;120;N;Withdrawn
+FFF;2014J;641309;M;West Midlands Region;A Level or Equivalent;20-30%;35-55;0;60;N;Pass
+FFF;2014J;641311;M;South East Region;Lower Than A Level;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;641363;M;North Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;641401;M;North Western Region;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;641404;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;641433;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Fail
+FFF;2014J;641461;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;641470;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;641547;M;South East Region;Lower Than A Level;40-50%;0-35;0;90;N;Pass
+FFF;2014J;641565;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;180;N;Withdrawn
+FFF;2014J;641804;M;West Midlands Region;A Level or Equivalent;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;641864;M;South Region;Lower Than A Level;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;641866;F;West Midlands Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;641914;M;Wales;A Level or Equivalent;30-40%;35-55;0;60;N;Pass
+FFF;2014J;642013;F;South East Region;A Level or Equivalent;60-70%;35-55;0;240;N;Withdrawn
+FFF;2014J;642029;M;South East Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;642056;M;West Midlands Region;A Level or Equivalent;;0-35;0;60;N;Distinction
+FFF;2014J;642128;M;London Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;642375;M;North Western Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;642448;M;South Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;642449;F;South Region;Lower Than A Level;80-90%;0-35;0;90;N;Pass
+FFF;2014J;642493;M;Wales;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;642496;M;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;180;N;Withdrawn
+FFF;2014J;642498;M;London Region;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;642536;F;North Region;Lower Than A Level;;35-55;0;60;N;Fail
+FFF;2014J;642551;M;London Region;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;642560;M;East Midlands Region;HE Qualification;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;642626;F;North Western Region;Lower Than A Level;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;642730;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;60;N;Fail
+FFF;2014J;642740;M;West Midlands Region;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;642750;M;London Region;HE Qualification;0-10%;35-55;0;90;N;Distinction
+FFF;2014J;642790;M;London Region;Lower Than A Level;oct-20;35-55;0;150;N;Withdrawn
+FFF;2014J;642840;M;West Midlands Region;Lower Than A Level;40-50%;0-35;0;120;Y;Fail
+FFF;2014J;642843;M;South Region;Lower Than A Level;80-90%;35-55;0;120;Y;Pass
+FFF;2014J;642872;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;90;N;Pass
+FFF;2014J;642909;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;642939;M;South Region;Lower Than A Level;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;643024;M;North Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;643069;M;North Western Region;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;643202;M;East Midlands Region;HE Qualification;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;643220;M;East Midlands Region;HE Qualification;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;643273;M;South Region;Lower Than A Level;80-90%;35-55;0;60;N;Pass
+FFF;2014J;643326;F;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;643372;F;North Western Region;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;643379;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;643455;M;South Region;Lower Than A Level;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;643466;M;North Region;HE Qualification;;0-35;0;60;N;Pass
+FFF;2014J;643477;M;Scotland;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;643496;F;South East Region;A Level or Equivalent;50-60%;0-35;0;60;Y;Pass
+FFF;2014J;643502;M;South Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;643591;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;643653;F;South Region;A Level or Equivalent;50-60%;0-35;0;60;Y;Pass
+FFF;2014J;643690;M;South West Region;Lower Than A Level;40-50%;0-35;0;180;N;Withdrawn
+FFF;2014J;643696;M;South West Region;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;643751;M;South East Region;HE Qualification;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;643754;F;South East Region;HE Qualification;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;643757;M;West Midlands Region;HE Qualification;0-10%;0-35;0;120;N;Fail
+FFF;2014J;644025;F;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;644210;M;South West Region;Lower Than A Level;80-90%;0-35;0;180;Y;Pass
+FFF;2014J;644303;F;East Midlands Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;644343;M;South West Region;Lower Than A Level;90-100%;0-35;0;120;N;Pass
+FFF;2014J;644361;F;North Western Region;Lower Than A Level;40-50%;35-55;0;120;N;Pass
+FFF;2014J;644369;M;Wales;Lower Than A Level;70-80%;0-35;0;150;N;Pass
+FFF;2014J;644430;F;East Anglian Region;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;644450;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;644508;F;South Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;644761;M;East Midlands Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;644784;M;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;644791;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;60;N;Pass
+FFF;2014J;644818;M;Scotland;Lower Than A Level;20-30%;35-55;0;60;N;Pass
+FFF;2014J;644834;M;Wales;HE Qualification;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;644847;M;North Western Region;Lower Than A Level;0-10%;0-35;0;150;N;Pass
+FFF;2014J;644871;M;North Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;644885;F;South West Region;A Level or Equivalent;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;644934;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;644936;F;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;644967;F;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;644974;M;London Region;A Level or Equivalent;80-90%;35-55;0;120;N;Distinction
+FFF;2014J;645003;M;North Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;645020;M;Ireland;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;645078;M;South East Region;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;645145;M;South East Region;Lower Than A Level;60-70%;0-35;0;120;N;Fail
+FFF;2014J;645194;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;180;Y;Withdrawn
+FFF;2014J;645366;M;North Western Region;Lower Than A Level;oct-20;35-55;0;60;N;Withdrawn
+FFF;2014J;645401;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;645405;M;South West Region;Lower Than A Level;70-80%;35-55;0;120;N;Pass
+FFF;2014J;645407;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;645433;M;Scotland;A Level or Equivalent;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;645496;M;South West Region;Lower Than A Level;0-10%;35-55;0;90;Y;Fail
+FFF;2014J;645518;M;Scotland;Lower Than A Level;80-90%;35-55;0;60;N;Fail
+FFF;2014J;645529;F;South West Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;645586;M;Scotland;HE Qualification;oct-20;0-35;0;90;N;Pass
+FFF;2014J;645618;F;North Western Region;HE Qualification;20-30%;35-55;0;210;N;Withdrawn
+FFF;2014J;645638;M;South West Region;A Level or Equivalent;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;645705;M;Wales;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;645732;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Pass
+FFF;2014J;645784;F;Scotland;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;645787;F;London Region;No Formal quals;50-60%;35-55;0;210;N;Withdrawn
+FFF;2014J;645790;M;West Midlands Region;A Level or Equivalent;80-90%;0-35;0;120;N;Fail
+FFF;2014J;645800;M;Wales;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;645840;M;Ireland;Lower Than A Level;90-100%;35-55;0;120;N;Fail
+FFF;2014J;645880;M;Scotland;A Level or Equivalent;0-10%;0-35;0;60;N;Fail
+FFF;2014J;645948;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;90;N;Pass
+FFF;2014J;645960;F;Wales;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;645997;M;London Region;HE Qualification;oct-20;0-35;0;90;N;Pass
+FFF;2014J;646015;M;South Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;646017;M;South West Region;A Level or Equivalent;0-10%;0-35;0;90;N;Pass
+FFF;2014J;646053;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;120;Y;Pass
+FFF;2014J;646074;M;London Region;Lower Than A Level;70-80%;35-55;0;90;N;Pass
+FFF;2014J;646083;M;Wales;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;646085;F;Yorkshire Region;A Level or Equivalent;60-70%;35-55;0;60;N;Distinction
+FFF;2014J;646091;M;North Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;646120;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;646138;M;North Western Region;Lower Than A Level;80-90%;0-35;0;90;N;Pass
+FFF;2014J;646313;F;Scotland;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;646357;M;Wales;Lower Than A Level;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;646402;M;Scotland;Post Graduate Qualification;50-60%;0-35;0;120;N;Pass
+FFF;2014J;646460;M;South East Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;646498;M;South West Region;A Level or Equivalent;20-30%;0-35;0;120;Y;Withdrawn
+FFF;2014J;646539;F;Scotland;HE Qualification;0-10%;0-35;0;90;N;Pass
+FFF;2014J;646540;M;West Midlands Region;A Level or Equivalent;70-80%;0-35;0;60;N;Distinction
+FFF;2014J;646551;M;London Region;A Level or Equivalent;40-50%;35-55;0;60;N;Pass
+FFF;2014J;646613;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;646638;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;646670;M;South East Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;646734;M;Scotland;A Level or Equivalent;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;646742;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;210;N;Withdrawn
+FFF;2014J;646750;M;North Region;A Level or Equivalent;;0-35;0;120;N;Pass
+FFF;2014J;646778;M;London Region;A Level or Equivalent;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;646807;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;180;N;Withdrawn
+FFF;2014J;646972;F;London Region;HE Qualification;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;646990;M;East Midlands Region;A Level or Equivalent;30-40%;35-55;0;120;N;Pass
+FFF;2014J;647005;M;West Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;647033;M;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;647040;M;London Region;A Level or Equivalent;30-40%;35-55;0;120;N;Pass
+FFF;2014J;647045;F;Wales;Lower Than A Level;0-10%;35-55;0;90;N;Fail
+FFF;2014J;647072;M;London Region;A Level or Equivalent;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;647111;M;London Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;647154;M;London Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;647169;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;120;N;Distinction
+FFF;2014J;647171;M;London Region;Lower Than A Level;oct-20;0-35;0;120;Y;Fail
+FFF;2014J;647194;M;North Western Region;HE Qualification;70-80%;0-35;0;60;N;Fail
+FFF;2014J;647210;M;Yorkshire Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;647245;M;London Region;No Formal quals;20-30%;0-35;0;150;N;Withdrawn
+FFF;2014J;647284;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;647320;F;Ireland;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;647321;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;60;Y;Withdrawn
+FFF;2014J;647324;M;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;120;Y;Distinction
+FFF;2014J;647339;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;90;N;Fail
+FFF;2014J;647348;F;South East Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;647391;F;Scotland;HE Qualification;0-10%;0-35;0;150;N;Pass
+FFF;2014J;647398;M;South Region;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;647399;F;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;120;Y;Pass
+FFF;2014J;647417;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;647425;F;Wales;Lower Than A Level;80-90%;35-55;0;120;N;Pass
+FFF;2014J;647485;M;Ireland;A Level or Equivalent;90-100%;0-35;0;60;Y;Pass
+FFF;2014J;647496;M;South West Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;647525;M;South West Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;647594;F;East Anglian Region;Lower Than A Level;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;647598;M;Ireland;A Level or Equivalent;80-90%;0-35;0;60;N;Fail
+FFF;2014J;647765;M;South East Region;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;647784;F;North Region;HE Qualification;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;647799;M;East Midlands Region;Lower Than A Level;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;647841;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;647898;M;Wales;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;647910;F;Yorkshire Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;647915;M;Scotland;A Level or Equivalent;60-70%;0-35;0;180;N;Withdrawn
+FFF;2014J;647945;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;120;N;Pass
+FFF;2014J;647987;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;120;Y;Fail
+FFF;2014J;648027;M;North Western Region;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;648037;M;South Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;648038;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;648040;M;Scotland;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;648086;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;90;N;Pass
+FFF;2014J;648105;M;Wales;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;648114;M;Scotland;Lower Than A Level;80-90%;0-35;0;90;N;Pass
+FFF;2014J;648116;F;North Region;Lower Than A Level;oct-20;0-35;0;120;N;Pass
+FFF;2014J;648118;M;Scotland;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;648137;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;648140;M;South Region;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;648190;M;North Region;Lower Than A Level;oct-20;0-35;0;120;N;Fail
+FFF;2014J;648244;F;Wales;HE Qualification;40-50%;0-35;0;120;N;Fail
+FFF;2014J;648254;M;East Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;648287;M;Wales;A Level or Equivalent;80-90%;0-35;0;150;N;Pass
+FFF;2014J;648348;M;North Western Region;HE Qualification;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;648353;M;North Western Region;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;648365;M;South West Region;HE Qualification;20-30%;0-35;0;60;N;Pass
+FFF;2014J;648366;M;London Region;A Level or Equivalent;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;648373;M;East Midlands Region;A Level or Equivalent;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;648455;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;120;N;Fail
+FFF;2014J;648457;M;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Distinction
+FFF;2014J;648470;F;South East Region;A Level or Equivalent;30-40%;0-35;0;90;N;Distinction
+FFF;2014J;648477;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;648508;M;London Region;A Level or Equivalent;20-30%;0-35;0;120;Y;Fail
+FFF;2014J;648515;M;Scotland;A Level or Equivalent;50-60%;0-35;0;120;N;Fail
+FFF;2014J;648521;F;London Region;A Level or Equivalent;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;648531;M;London Region;Lower Than A Level;80-90%;0-35;0;150;Y;Distinction
+FFF;2014J;648536;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;120;N;Distinction
+FFF;2014J;648546;M;London Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;648564;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;648571;M;Scotland;A Level or Equivalent;90-100%;0-35;0;90;N;Distinction
+FFF;2014J;648576;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;648590;M;London Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;648605;M;East Midlands Region;A Level or Equivalent;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;648611;M;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;648613;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;648650;F;North Western Region;A Level or Equivalent;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;648661;M;South West Region;Lower Than A Level;0-10%;35-55;0;60;Y;Fail
+FFF;2014J;648667;M;South West Region;A Level or Equivalent;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;648685;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;648698;M;South Region;A Level or Equivalent;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;648725;M;South West Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;648804;M;South East Region;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;648815;M;Scotland;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;648819;M;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;648840;M;South West Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;648863;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;648867;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;648872;F;Wales;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;648903;M;London Region;Lower Than A Level;70-80%;0-35;0;120;N;Pass
+FFF;2014J;648927;M;North Region;A Level or Equivalent;0-10%;0-35;0;150;Y;Withdrawn
+FFF;2014J;648930;M;North Region;Lower Than A Level;oct-20;35-55;0;60;N;Fail
+FFF;2014J;648972;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;648995;F;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;649004;M;London Region;Lower Than A Level;30-40%;35-55;0;90;N;Pass
+FFF;2014J;649009;M;Yorkshire Region;A Level or Equivalent;60-70%;0-35;0;120;N;Fail
+FFF;2014J;649020;M;London Region;HE Qualification;60-70%;35-55;0;60;N;Withdrawn
+FFF;2014J;649028;F;South West Region;A Level or Equivalent;70-80%;0-35;0;240;Y;Withdrawn
+FFF;2014J;649036;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;649079;M;London Region;Lower Than A Level;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;649084;M;South Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;649093;F;London Region;HE Qualification;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;649118;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;649141;M;Ireland;A Level or Equivalent;70-80%;35-55;0;90;N;Withdrawn
+FFF;2014J;649147;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;180;N;Withdrawn
+FFF;2014J;649159;M;Ireland;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;649161;M;North Western Region;No Formal quals;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;649165;M;South Region;A Level or Equivalent;;0-35;0;60;N;Pass
+FFF;2014J;649207;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;649212;M;North Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;649230;F;Scotland;Lower Than A Level;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;649258;M;Wales;A Level or Equivalent;70-80%;0-35;0;120;N;Fail
+FFF;2014J;649284;M;South East Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;649325;F;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;649336;M;South West Region;A Level or Equivalent;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;649379;F;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;649385;M;South East Region;A Level or Equivalent;60-70%;0-35;0;90;Y;Withdrawn
+FFF;2014J;649389;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;649400;M;North Western Region;HE Qualification;90-100%;0-35;0;120;N;Pass
+FFF;2014J;649434;M;London Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;649435;M;North Region;Lower Than A Level;;35-55;0;90;N;Pass
+FFF;2014J;649457;F;North Western Region;A Level or Equivalent;80-90%;0-35;0;90;N;Pass
+FFF;2014J;649469;M;Yorkshire Region;A Level or Equivalent;30-40%;35-55;0;60;N;Fail
+FFF;2014J;649523;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;649547;M;Scotland;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;649555;M;South Region;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;649566;M;North Region;Lower Than A Level;;0-35;0;120;N;Fail
+FFF;2014J;649580;M;London Region;A Level or Equivalent;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;649619;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;120;N;Distinction
+FFF;2014J;649735;M;South West Region;A Level or Equivalent;30-40%;0-35;0;90;N;Pass
+FFF;2014J;649764;F;London Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;649806;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;60;N;Fail
+FFF;2014J;649849;M;South East Region;A Level or Equivalent;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;649891;M;London Region;Lower Than A Level;60-70%;35-55;0;60;N;Withdrawn
+FFF;2014J;649926;M;Scotland;HE Qualification;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;649952;M;North Region;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;649954;F;London Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;649979;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;650031;F;North Western Region;Lower Than A Level;30-40%;0-35;0;120;N;Fail
+FFF;2014J;650048;M;South Region;Lower Than A Level;80-90%;0-35;0;120;N;Fail
+FFF;2014J;650052;F;West Midlands Region;HE Qualification;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;650054;F;London Region;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;650085;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;650108;F;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;650123;F;South East Region;A Level or Equivalent;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;650148;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;150;N;Withdrawn
+FFF;2014J;650160;M;Wales;Lower Than A Level;20-30%;0-35;0;120;N;Distinction
+FFF;2014J;650170;M;East Midlands Region;Lower Than A Level;60-70%;0-35;0;60;N;Fail
+FFF;2014J;650180;M;London Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;650251;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;650285;F;South East Region;HE Qualification;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;650287;F;Ireland;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;650321;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;650353;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;650363;M;South East Region;A Level or Equivalent;30-40%;0-35;0;90;N;Pass
+FFF;2014J;650370;F;Scotland;HE Qualification;oct-20;0-35;0;90;N;Pass
+FFF;2014J;650398;M;South East Region;A Level or Equivalent;oct-20;0-35;0;180;N;Withdrawn
+FFF;2014J;650400;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;650424;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;650461;M;Yorkshire Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;650464;M;London Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;650469;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;650473;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;650543;M;South West Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;650544;M;South Region;Lower Than A Level;60-70%;35-55;0;90;N;Withdrawn
+FFF;2014J;650570;M;Yorkshire Region;HE Qualification;70-80%;0-35;0;120;N;Pass
+FFF;2014J;650637;M;Yorkshire Region;Lower Than A Level;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;650682;M;Wales;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;650716;M;London Region;A Level or Equivalent;70-80%;35-55;0;120;N;Fail
+FFF;2014J;650717;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;150;N;Withdrawn
+FFF;2014J;650758;M;Yorkshire Region;Lower Than A Level;20-30%;35-55;0;120;N;Fail
+FFF;2014J;650791;M;Scotland;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;650861;F;Scotland;Post Graduate Qualification;80-90%;0-35;0;60;N;Fail
+FFF;2014J;650866;M;Wales;A Level or Equivalent;30-40%;35-55;0;60;N;Pass
+FFF;2014J;650923;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;650952;M;South Region;Lower Than A Level;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;650960;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;651040;M;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;651121;M;West Midlands Region;Lower Than A Level;70-80%;0-35;0;90;N;Pass
+FFF;2014J;651126;M;South East Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;651182;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;651200;M;North Western Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;651238;M;North Western Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;651253;M;Scotland;HE Qualification;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;651255;F;Wales;A Level or Equivalent;20-30%;35-55;0;60;N;Fail
+FFF;2014J;651330;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;150;Y;Fail
+FFF;2014J;651334;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Fail
+FFF;2014J;651351;F;East Midlands Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;651354;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;90;N;Pass
+FFF;2014J;651381;M;South Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;651398;M;South Region;Lower Than A Level;;0-35;0;120;N;Withdrawn
+FFF;2014J;651419;M;Wales;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;651473;F;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;651478;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;90;N;Distinction
+FFF;2014J;651498;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;651555;M;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;651598;F;North Region;Lower Than A Level;;0-35;0;60;N;Distinction
+FFF;2014J;651608;F;East Anglian Region;A Level or Equivalent;60-70%;35-55;0;120;N;Withdrawn
+FFF;2014J;651611;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;651639;M;East Anglian Region;A Level or Equivalent;90-100%;35-55;0;120;N;Withdrawn
+FFF;2014J;651693;M;Ireland;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;651697;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;651879;M;South West Region;A Level or Equivalent;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;651881;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;Y;Pass
+FFF;2014J;651886;M;Scotland;HE Qualification;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;651927;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;120;N;Distinction
+FFF;2014J;651972;F;Ireland;Lower Than A Level;60-70%;35-55;0;60;N;Fail
+FFF;2014J;651990;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;652008;M;South Region;HE Qualification;60-70%;0-35;0;60;N;Pass
+FFF;2014J;652025;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;652064;M;South West Region;Lower Than A Level;20-30%;35-55;0;60;N;Distinction
+FFF;2014J;652087;M;West Midlands Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;652311;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;652333;F;East Anglian Region;Lower Than A Level;20-30%;35-55;0;150;N;Pass
+FFF;2014J;652335;M;South Region;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;652336;M;Wales;A Level or Equivalent;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;652438;F;Ireland;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;652569;M;London Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;652576;M;Wales;HE Qualification;20-30%;0-35;0;120;N;Pass
+FFF;2014J;652593;M;South Region;Lower Than A Level;80-90%;35-55;0;120;N;Withdrawn
+FFF;2014J;652625;F;Wales;Lower Than A Level;60-70%;0-35;0;60;Y;Distinction
+FFF;2014J;652647;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;90;N;Fail
+FFF;2014J;652659;M;East Midlands Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;652664;M;Yorkshire Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;652672;F;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;652684;M;North Region;A Level or Equivalent;80-90%;0-35;0;60;N;Distinction
+FFF;2014J;652706;M;North Region;A Level or Equivalent;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;652711;M;Wales;Lower Than A Level;50-60%;35-55;0;60;N;Pass
+FFF;2014J;652752;M;North Western Region;Lower Than A Level;oct-20;0-35;0;120;N;Fail
+FFF;2014J;652753;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;652769;M;Ireland;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;652788;M;South Region;Lower Than A Level;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;652801;F;Wales;Lower Than A Level;20-30%;35-55;0;60;Y;Withdrawn
+FFF;2014J;652824;M;South West Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;652832;M;South East Region;Lower Than A Level;60-70%;35-55;0;60;N;Withdrawn
+FFF;2014J;652887;F;Scotland;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;652890;M;West Midlands Region;Lower Than A Level;oct-20;0-35;0;120;N;Fail
+FFF;2014J;652898;M;North Western Region;Lower Than A Level;oct-20;0-35;0;90;N;Pass
+FFF;2014J;652994;M;North Western Region;Lower Than A Level;oct-20;0-35;0;120;N;Pass
+FFF;2014J;652998;M;South Region;Lower Than A Level;90-100%;0-35;0;60;N;Fail
+FFF;2014J;653045;M;Ireland;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;653051;F;South Region;Lower Than A Level;70-80%;0-35;0;180;Y;Withdrawn
+FFF;2014J;653115;F;Yorkshire Region;HE Qualification;0-10%;35-55;0;120;N;Pass
+FFF;2014J;653144;M;Scotland;HE Qualification;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;653174;M;East Anglian Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;653183;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;653206;M;London Region;Lower Than A Level;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;653255;M;London Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;653297;M;North Region;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;653301;F;Ireland;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;653336;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;653356;F;Yorkshire Region;Lower Than A Level;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;653372;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;653381;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;653417;M;London Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;653536;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;653558;M;South East Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;653567;M;North Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;653595;M;South East Region;HE Qualification;oct-20;0-35;0;60;N;Pass
+FFF;2014J;653616;M;West Midlands Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;653653;M;South Region;Lower Than A Level;oct-20;0-35;0;90;Y;Pass
+FFF;2014J;653659;M;North Region;A Level or Equivalent;20-30%;0-35;0;60;N;Fail
+FFF;2014J;653747;F;Wales;A Level or Equivalent;40-50%;0-35;0;90;N;Withdrawn
+FFF;2014J;653773;M;London Region;A Level or Equivalent;20-30%;0-35;0;60;Y;Pass
+FFF;2014J;653797;M;South East Region;Lower Than A Level;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;653841;M;Yorkshire Region;Lower Than A Level;60-70%;0-35;0;90;N;Pass
+FFF;2014J;653846;M;North Western Region;A Level or Equivalent;40-50%;35-55;0;120;N;Withdrawn
+FFF;2014J;653848;M;North Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;653854;M;North Western Region;HE Qualification;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;653857;M;Scotland;HE Qualification;30-40%;35-55;0;90;N;Fail
+FFF;2014J;653988;M;London Region;No Formal quals;oct-20;0-35;0;120;N;Fail
+FFF;2014J;654045;F;Wales;HE Qualification;50-60%;35-55;0;60;N;Pass
+FFF;2014J;654048;M;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;240;N;Withdrawn
+FFF;2014J;654094;M;Scotland;Lower Than A Level;60-70%;0-35;0;60;Y;Withdrawn
+FFF;2014J;654112;M;South Region;Lower Than A Level;90-100%;35-55;0;60;N;Withdrawn
+FFF;2014J;654114;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;654169;M;North Region;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;654217;M;North Region;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;654228;F;Scotland;Post Graduate Qualification;90-100%;35-55;0;60;N;Withdrawn
+FFF;2014J;654236;M;North Region;A Level or Equivalent;;0-35;0;90;N;Pass
+FFF;2014J;654260;M;Ireland;A Level or Equivalent;;0-35;0;120;N;Distinction
+FFF;2014J;654289;M;South Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;654322;M;London Region;A Level or Equivalent;60-70%;0-35;0;120;Y;Withdrawn
+FFF;2014J;654338;F;West Midlands Region;Lower Than A Level;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;654339;M;South Region;Lower Than A Level;50-60%;35-55;0;60;N;Pass
+FFF;2014J;654351;M;Scotland;HE Qualification;80-90%;0-35;0;90;N;Fail
+FFF;2014J;654407;M;North Region;Lower Than A Level;0-10%;0-35;0;150;N;Withdrawn
+FFF;2014J;654432;M;London Region;HE Qualification;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;654441;M;Yorkshire Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;654563;M;East Midlands Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;654565;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;654578;M;North Region;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;654597;M;East Anglian Region;Lower Than A Level;80-90%;0-35;0;120;N;Pass
+FFF;2014J;654619;M;London Region;Lower Than A Level;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;654620;F;South West Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;654671;F;South Region;A Level or Equivalent;20-30%;0-35;0;150;Y;Withdrawn
+FFF;2014J;654677;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;654684;F;North Region;Lower Than A Level;;0-35;0;90;N;Withdrawn
+FFF;2014J;654692;M;Ireland;A Level or Equivalent;80-90%;0-35;0;60;N;Fail
+FFF;2014J;654698;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;654732;F;London Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;654738;M;East Midlands Region;Lower Than A Level;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;654816;F;London Region;Lower Than A Level;oct-20;35-55;0;180;N;Withdrawn
+FFF;2014J;654819;M;Wales;Lower Than A Level;0-10%;0-35;0;90;Y;Distinction
+FFF;2014J;654824;M;North Region;Lower Than A Level;;35-55;0;60;N;Pass
+FFF;2014J;654834;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;120;N;Distinction
+FFF;2014J;654852;F;East Midlands Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;654867;F;Scotland;HE Qualification;70-80%;0-35;0;60;N;Distinction
+FFF;2014J;654943;M;South East Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;654947;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;654960;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;655028;M;North Western Region;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;655088;F;East Anglian Region;Lower Than A Level;60-70%;0-35;0;120;Y;Withdrawn
+FFF;2014J;655113;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;655115;M;North Region;Lower Than A Level;;0-35;0;60;Y;Pass
+FFF;2014J;655124;M;South Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;655127;F;Ireland;A Level or Equivalent;30-40%;0-35;0;90;N;Distinction
+FFF;2014J;655353;M;London Region;HE Qualification;70-80%;35-55;0;150;N;Pass
+FFF;2014J;655386;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Distinction
+FFF;2014J;655402;F;London Region;Lower Than A Level;30-40%;0-35;0;150;N;Withdrawn
+FFF;2014J;655412;M;Yorkshire Region;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;655416;M;South East Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;655417;M;South West Region;Lower Than A Level;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;655445;M;Yorkshire Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;655492;M;South East Region;A Level or Equivalent;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;655569;M;West Midlands Region;Lower Than A Level;60-70%;0-35;0;120;N;Pass
+FFF;2014J;655627;M;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;655629;F;South West Region;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;655720;M;Scotland;HE Qualification;40-50%;35-55;0;120;N;Withdrawn
+FFF;2014J;655747;F;East Midlands Region;Lower Than A Level;40-50%;35-55;0;80;N;Withdrawn
+FFF;2014J;655796;M;North Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;655852;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;655927;M;Ireland;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;655981;M;East Midlands Region;HE Qualification;80-90%;35-55;0;60;N;Pass
+FFF;2014J;656029;M;South Region;Lower Than A Level;70-80%;35-55;0;150;N;Withdrawn
+FFF;2014J;656065;F;South East Region;HE Qualification;80-90%;0-35;0;60;N;Pass
+FFF;2014J;656086;M;North Region;A Level or Equivalent;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;656092;M;North Region;A Level or Equivalent;;0-35;0;120;N;Pass
+FFF;2014J;656102;M;North Western Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;656107;M;Scotland;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;656131;M;Wales;Lower Than A Level;0-10%;35-55;0;60;N;Pass
+FFF;2014J;656145;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;Y;Withdrawn
+FFF;2014J;656150;M;West Midlands Region;Lower Than A Level;;0-35;0;120;N;Withdrawn
+FFF;2014J;656158;F;North Western Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;656159;M;London Region;Lower Than A Level;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;656165;M;Yorkshire Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;656234;M;Ireland;Lower Than A Level;;0-35;0;60;N;Pass
+FFF;2014J;656323;M;South West Region;Lower Than A Level;90-100%;0-35;0;120;Y;Pass
+FFF;2014J;656353;M;London Region;A Level or Equivalent;30-40%;35-55;0;120;N;Pass
+FFF;2014J;656360;M;London Region;Lower Than A Level;20-30%;0-35;0;180;N;Withdrawn
+FFF;2014J;656414;M;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;656436;M;South West Region;A Level or Equivalent;50-60%;35-55;0;90;N;Pass
+FFF;2014J;656441;M;East Anglian Region;HE Qualification;60-70%;0-35;0;180;N;Withdrawn
+FFF;2014J;656510;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;90;N;Fail
+FFF;2014J;656512;M;London Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;656519;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;120;Y;Withdrawn
+FFF;2014J;656529;M;Ireland;A Level or Equivalent;50-60%;35-55;0;60;N;Pass
+FFF;2014J;656565;F;London Region;No Formal quals;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;656579;F;South West Region;A Level or Equivalent;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;656599;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;656607;F;London Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;656622;M;West Midlands Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;656651;M;South West Region;A Level or Equivalent;20-30%;0-35;0;120;N;Pass
+FFF;2014J;656677;M;South Region;Lower Than A Level;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;656693;M;South East Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;656734;F;South West Region;Lower Than A Level;70-80%;0-35;0;120;N;Distinction
+FFF;2014J;656791;M;London Region;A Level or Equivalent;oct-20;35-55;0;90;N;Pass
+FFF;2014J;656800;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;240;N;Withdrawn
+FFF;2014J;656882;M;Yorkshire Region;A Level or Equivalent;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;656988;M;Wales;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;656996;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;657048;M;Scotland;HE Qualification;0-10%;0-35;0;120;N;Pass
+FFF;2014J;657118;F;East Anglian Region;A Level or Equivalent;60-70%;35-55;0;240;N;Withdrawn
+FFF;2014J;657181;M;London Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;657184;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;657211;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;657220;M;Yorkshire Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;657330;M;North Region;A Level or Equivalent;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;657344;M;East Anglian Region;Lower Than A Level;30-40%;35-55;0;60;N;Distinction
+FFF;2014J;674222;M;Ireland;HE Qualification;;35-55;0;60;N;Pass
+FFF;2014J;674226;M;London Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;674236;M;Wales;A Level or Equivalent;0-10%;0-35;0;120;N;Distinction
+FFF;2014J;674260;M;South West Region;A Level or Equivalent;40-50%;0-35;0;120;N;Fail
+FFF;2014J;674261;M;Yorkshire Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;674262;F;Wales;HE Qualification;40-50%;0-35;0;90;N;Distinction
+FFF;2014J;674320;M;South East Region;Lower Than A Level;oct-20;0-35;0;120;N;Pass
+FFF;2014J;674387;M;North Western Region;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;674406;M;East Midlands Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;674451;M;Scotland;HE Qualification;60-70%;0-35;0;60;N;Pass
+FFF;2014J;674478;F;London Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;674484;M;Scotland;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;674497;M;Wales;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;674509;M;Scotland;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;674584;M;North Region;A Level or Equivalent;;0-35;0;60;N;Distinction
+FFF;2014J;674594;M;Yorkshire Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;674617;M;London Region;HE Qualification;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;674644;M;London Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;674657;M;South Region;HE Qualification;20-30%;35-55;0;150;N;Pass
+FFF;2014J;674671;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;674691;F;South Region;HE Qualification;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;674694;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;674699;F;South Region;No Formal quals;90-100%;0-35;0;120;N;Distinction
+FFF;2014J;674751;M;North Western Region;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;674764;M;East Anglian Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;674814;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;240;N;Withdrawn
+FFF;2014J;674831;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;Y;Pass
+FFF;2014J;674870;F;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;674911;M;Ireland;Lower Than A Level;;0-35;0;60;N;Withdrawn
+FFF;2014J;674921;M;London Region;Lower Than A Level;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;674935;M;Wales;A Level or Equivalent;90-100%;0-35;0;90;N;Withdrawn
+FFF;2014J;674970;M;North Region;Lower Than A Level;;0-35;0;120;N;Withdrawn
+FFF;2014J;675002;M;Wales;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;675021;M;Scotland;HE Qualification;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;675046;M;South East Region;A Level or Equivalent;30-40%;35-55;0;120;N;Withdrawn
+FFF;2014J;675054;M;London Region;HE Qualification;30-40%;0-35;0;120;N;Pass
+FFF;2014J;675127;F;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;675193;M;South West Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;675225;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;Y;Pass
+FFF;2014J;675233;M;North Western Region;HE Qualification;0-10%;0-35;0;90;N;Pass
+FFF;2014J;675261;F;South West Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;675273;F;London Region;HE Qualification;oct-20;0-35;0;120;N;Fail
+FFF;2014J;675279;M;Scotland;HE Qualification;50-60%;35-55;0;60;Y;Pass
+FFF;2014J;675315;M;West Midlands Region;HE Qualification;90-100%;0-35;0;150;N;Pass
+FFF;2014J;675328;M;North Western Region;HE Qualification;oct-20;35-55;0;120;N;Pass
+FFF;2014J;675337;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;90;N;Withdrawn
+FFF;2014J;675474;M;Wales;Lower Than A Level;60-70%;0-35;0;90;N;Pass
+FFF;2014J;675486;F;North Western Region;Lower Than A Level;oct-20;0-35;0;180;Y;Withdrawn
+FFF;2014J;675514;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;675566;M;South West Region;Lower Than A Level;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;675577;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;0;60;Y;Fail
+FFF;2014J;675613;M;North Western Region;A Level or Equivalent;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;675636;M;North Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;675669;F;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;675710;M;South East Region;A Level or Equivalent;60-70%;35-55;0;60;N;Distinction
+FFF;2014J;675818;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;675824;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;90;Y;Withdrawn
+FFF;2014J;675829;M;Scotland;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;675843;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;675947;M;West Midlands Region;Lower Than A Level;oct-20;35-55;0;60;N;Withdrawn
+FFF;2014J;675989;M;London Region;A Level or Equivalent;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;676007;M;South West Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;676040;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;676064;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;676103;M;South West Region;A Level or Equivalent;60-70%;0-35;0;120;N;Pass
+FFF;2014J;676128;M;London Region;A Level or Equivalent;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;676139;M;East Anglian Region;A Level or Equivalent;50-60%;35-55;0;60;N;Fail
+FFF;2014J;676190;M;Wales;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;676194;M;London Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;676265;M;South West Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;676272;M;Wales;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;676303;M;London Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;676320;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;676324;M;East Midlands Region;Lower Than A Level;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;676378;M;Ireland;HE Qualification;;35-55;0;60;N;Distinction
+FFF;2014J;676444;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;676458;M;South West Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;676459;M;Scotland;Lower Than A Level;30-40%;0-35;0;60;N;Pass
+FFF;2014J;676478;M;South West Region;A Level or Equivalent;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;676492;M;Yorkshire Region;HE Qualification;60-70%;0-35;0;150;N;Pass
+FFF;2014J;676600;F;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;676610;M;North Region;A Level or Equivalent;;0-35;0;120;N;Distinction
+FFF;2014J;676626;M;Wales;A Level or Equivalent;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;676627;F;East Anglian Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;676866;M;South Region;A Level or Equivalent;50-60%;0-35;0;90;N;Pass
+FFF;2014J;676882;M;North Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;676930;M;East Anglian Region;Lower Than A Level;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;677027;M;East Anglian Region;HE Qualification;oct-20;0-35;0;90;N;Withdrawn
+FFF;2014J;677081;M;South West Region;Lower Than A Level;0-10%;0-35;0;240;N;Withdrawn
+FFF;2014J;677085;M;North Region;HE Qualification;;0-35;0;150;N;Pass
+FFF;2014J;677111;F;West Midlands Region;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;677138;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;677155;F;North Western Region;Lower Than A Level;0-10%;35-55;0;60;N;Pass
+FFF;2014J;677167;F;North Western Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;677206;F;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;677221;F;Scotland;HE Qualification;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;677235;M;Wales;Lower Than A Level;30-40%;0-35;0;60;N;Fail
+FFF;2014J;677327;F;South West Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;677369;M;London Region;HE Qualification;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;677382;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;677400;F;Wales;HE Qualification;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;677436;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;60;N;Pass
+FFF;2014J;677456;M;Scotland;Lower Than A Level;0-10%;35-55;0;60;N;Pass
+FFF;2014J;677486;M;London Region;HE Qualification;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;677546;F;London Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;677582;M;Wales;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;677608;M;North Western Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;677643;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;677655;M;North Western Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;677687;M;South East Region;Lower Than A Level;70-80%;0-35;0;60;Y;Fail
+FFF;2014J;677701;M;South Region;Lower Than A Level;50-60%;35-55;0;180;N;Withdrawn
+FFF;2014J;677748;M;West Midlands Region;A Level or Equivalent;0-10%;35-55;0;120;N;Fail
+FFF;2014J;677767;F;Wales;A Level or Equivalent;80-90%;0-35;0;120;N;Fail
+FFF;2014J;677782;F;London Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;677828;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;677833;M;South West Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;677867;M;London Region;HE Qualification;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;677869;M;Wales;A Level or Equivalent;70-80%;0-35;0;120;Y;Fail
+FFF;2014J;678005;M;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;678044;M;Wales;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;678088;M;South Region;Lower Than A Level;80-90%;35-55;0;180;N;Pass
+FFF;2014J;678090;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;90;N;Withdrawn
+FFF;2014J;678127;F;Yorkshire Region;Lower Than A Level;0-10%;35-55;0;60;N;Withdrawn
+FFF;2014J;678203;M;Yorkshire Region;Lower Than A Level;50-60%;0-35;0;120;N;Pass
+FFF;2014J;678235;F;West Midlands Region;A Level or Equivalent;60-70%;35-55;0;120;N;Pass
+FFF;2014J;678270;M;West Midlands Region;Lower Than A Level;90-100%;0-35;0;60;N;Fail
+FFF;2014J;678287;M;Scotland;Lower Than A Level;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;678346;M;Scotland;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;678381;M;South West Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;678397;M;East Midlands Region;HE Qualification;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;678407;M;Scotland;A Level or Equivalent;oct-20;0-35;0;240;N;Withdrawn
+FFF;2014J;678452;M;South Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;678474;M;Scotland;A Level or Equivalent;oct-20;0-35;0;120;N;Fail
+FFF;2014J;678528;M;North Region;Lower Than A Level;;0-35;0;60;N;Fail
+FFF;2014J;678619;F;Scotland;HE Qualification;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;678628;M;London Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;678639;M;South West Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;678659;F;South East Region;HE Qualification;70-80%;35-55;0;60;N;Pass
+FFF;2014J;678769;M;London Region;A Level or Equivalent;40-50%;0-35;0;180;N;Withdrawn
+FFF;2014J;678819;M;Wales;A Level or Equivalent;40-50%;35-55;0;120;N;Distinction
+FFF;2014J;678831;F;Scotland;HE Qualification;90-100%;0-35;0;300;N;Withdrawn
+FFF;2014J;678859;M;North Western Region;A Level or Equivalent;50-60%;0-35;0;90;N;Distinction
+FFF;2014J;678877;F;Scotland;HE Qualification;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;678946;M;London Region;HE Qualification;20-30%;0-35;0;60;N;Pass
+FFF;2014J;678954;M;East Anglian Region;HE Qualification;60-70%;0-35;0;90;N;Distinction
+FFF;2014J;679019;M;Wales;Lower Than A Level;70-80%;0-35;0;120;N;Fail
+FFF;2014J;679036;F;London Region;HE Qualification;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;679111;M;Scotland;HE Qualification;40-50%;35-55;0;60;N;Fail
+FFF;2014J;679119;M;North Region;Lower Than A Level;;0-35;0;120;N;Withdrawn
+FFF;2014J;679189;M;South East Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;679227;M;Wales;HE Qualification;80-90%;35-55;0;60;N;Pass
+FFF;2014J;679237;M;London Region;A Level or Equivalent;80-90%;0-35;0;120;N;Fail
+FFF;2014J;679251;M;Wales;Lower Than A Level;50-60%;0-35;0;120;Y;Fail
+FFF;2014J;679262;M;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;679269;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;679278;M;Yorkshire Region;A Level or Equivalent;40-50%;0-35;0;60;Y;Pass
+FFF;2014J;679337;M;East Midlands Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;679342;M;North Western Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;679384;M;North Western Region;HE Qualification;0-10%;35-55;0;60;N;Pass
+FFF;2014J;679386;M;South West Region;Lower Than A Level;70-80%;0-35;0;120;N;Pass
+FFF;2014J;679402;M;East Anglian Region;Lower Than A Level;70-80%;35-55;0;120;N;Distinction
+FFF;2014J;679445;M;South East Region;HE Qualification;90-100%;0-35;0;60;N;Pass
+FFF;2014J;679448;F;East Anglian Region;Lower Than A Level;50-60%;35-55;0;90;N;Pass
+FFF;2014J;679498;M;South East Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;679502;M;South Region;A Level or Equivalent;90-100%;0-35;0;180;N;Withdrawn
+FFF;2014J;679509;M;South East Region;HE Qualification;90-100%;0-35;0;60;N;Pass
+FFF;2014J;679594;M;London Region;A Level or Equivalent;oct-20;0-35;0;60;N;Distinction
+FFF;2014J;679676;F;Wales;Lower Than A Level;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;679688;M;Ireland;Lower Than A Level;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;679749;M;Scotland;HE Qualification;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;679788;M;South Region;HE Qualification;30-40%;0-35;0;120;N;Pass
+FFF;2014J;679790;F;London Region;HE Qualification;70-80%;0-35;0;120;N;Pass
+FFF;2014J;679938;M;Wales;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;679939;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;679949;F;South Region;A Level or Equivalent;60-70%;35-55;0;60;N;Fail
+FFF;2014J;680014;M;South West Region;A Level or Equivalent;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;680018;M;Scotland;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;680027;M;London Region;A Level or Equivalent;30-40%;35-55;0;120;Y;Distinction
+FFF;2014J;680072;F;North Region;Lower Than A Level;;0-35;0;120;N;Withdrawn
+FFF;2014J;680080;M;North Region;A Level or Equivalent;oct-20;0-35;0;90;N;Pass
+FFF;2014J;680145;M;North Western Region;Lower Than A Level;30-40%;0-35;0;90;Y;Pass
+FFF;2014J;680212;M;East Midlands Region;A Level or Equivalent;30-40%;0-35;0;90;N;Fail
+FFF;2014J;680222;F;South East Region;Lower Than A Level;oct-20;0-35;0;180;N;Withdrawn
+FFF;2014J;680231;M;South West Region;Lower Than A Level;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;680255;M;Yorkshire Region;A Level or Equivalent;50-60%;0-35;0;90;N;Fail
+FFF;2014J;680266;F;Yorkshire Region;HE Qualification;oct-20;35-55;0;60;N;Distinction
+FFF;2014J;680270;M;Ireland;Lower Than A Level;60-70%;0-35;0;60;N;Fail
+FFF;2014J;680273;M;London Region;Lower Than A Level;40-50%;35-55;0;60;N;Withdrawn
+FFF;2014J;680312;M;South West Region;A Level or Equivalent;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;680322;M;Wales;A Level or Equivalent;80-90%;0-35;0;150;Y;Pass
+FFF;2014J;680343;M;South Region;A Level or Equivalent;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;680348;M;Scotland;HE Qualification;80-90%;0-35;0;120;N;Pass
+FFF;2014J;680349;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;680374;M;East Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;680410;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;150;N;Withdrawn
+FFF;2014J;680443;M;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;180;N;Distinction
+FFF;2014J;680464;M;Ireland;A Level or Equivalent;80-90%;0-35;0;120;N;Distinction
+FFF;2014J;680506;F;East Anglian Region;HE Qualification;80-90%;0-35;0;60;N;Distinction
+FFF;2014J;680517;M;North Western Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;680572;M;South East Region;Lower Than A Level;20-30%;0-35;0;150;N;Pass
+FFF;2014J;680708;F;Scotland;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;680713;M;Scotland;A Level or Equivalent;30-40%;35-55;0;60;N;Pass
+FFF;2014J;680714;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;90;N;Withdrawn
+FFF;2014J;680715;M;East Midlands Region;A Level or Equivalent;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;680747;M;West Midlands Region;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;680766;M;London Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;680775;M;Wales;Lower Than A Level;90-100%;0-35;0;120;N;Pass
+FFF;2014J;680810;F;North Western Region;A Level or Equivalent;20-30%;0-35;0;120;N;Distinction
+FFF;2014J;680855;M;Wales;Lower Than A Level;20-30%;35-55;0;60;N;Fail
+FFF;2014J;680872;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;680912;F;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;680938;F;London Region;A Level or Equivalent;80-90%;0-35;0;180;N;Withdrawn
+FFF;2014J;680955;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;680974;M;East Anglian Region;HE Qualification;80-90%;0-35;0;60;N;Distinction
+FFF;2014J;681004;M;London Region;No Formal quals;20-30%;35-55;0;60;N;Distinction
+FFF;2014J;681052;M;Yorkshire Region;Lower Than A Level;50-60%;0-35;0;90;N;Withdrawn
+FFF;2014J;681063;M;South Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;681073;M;Yorkshire Region;Lower Than A Level;40-50%;0-35;0;90;N;Withdrawn
+FFF;2014J;681120;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;681152;F;South Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;681235;F;West Midlands Region;Lower Than A Level;oct-20;0-35;0;120;N;Pass
+FFF;2014J;681277;M;London Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;681298;M;Wales;A Level or Equivalent;20-30%;0-35;0;90;N;Fail
+FFF;2014J;681328;M;North Western Region;A Level or Equivalent;70-80%;0-35;0;60;N;Distinction
+FFF;2014J;681335;M;North Western Region;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;681341;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;60;N;Fail
+FFF;2014J;681352;F;South West Region;A Level or Equivalent;0-10%;0-35;0;120;Y;Pass
+FFF;2014J;681354;M;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;681393;M;South Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;681397;M;West Midlands Region;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;681452;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;90;N;Pass
+FFF;2014J;681490;M;Yorkshire Region;A Level or Equivalent;70-80%;0-35;0;120;N;Distinction
+FFF;2014J;681608;M;North Region;A Level or Equivalent;;0-35;0;60;N;Pass
+FFF;2014J;681633;F;Scotland;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;681652;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;90;N;Pass
+FFF;2014J;681655;M;South Region;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;681658;M;East Midlands Region;A Level or Equivalent;70-80%;0-35;0;60;N;Pass
+FFF;2014J;681691;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;681735;M;Scotland;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;681755;M;North Region;HE Qualification;;0-35;0;120;N;Pass
+FFF;2014J;681763;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Pass
+FFF;2014J;681938;M;South West Region;A Level or Equivalent;90-100%;0-35;0;120;N;Distinction
+FFF;2014J;681973;M;South East Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;682015;M;North Western Region;Lower Than A Level;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;682019;M;South Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;682025;F;South East Region;Lower Than A Level;20-30%;0-35;0;240;Y;Withdrawn
+FFF;2014J;682050;F;Scotland;Lower Than A Level;40-50%;0-35;0;120;N;Fail
+FFF;2014J;682070;M;Ireland;HE Qualification;30-40%;35-55;0;90;N;Pass
+FFF;2014J;682098;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;682142;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;682276;M;South Region;A Level or Equivalent;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;682298;F;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;120;Y;Pass
+FFF;2014J;682358;M;South Region;A Level or Equivalent;40-50%;35-55;0;180;Y;Withdrawn
+FFF;2014J;682359;F;North Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;682390;M;Scotland;HE Qualification;20-30%;0-35;0;60;Y;Pass
+FFF;2014J;682391;M;Scotland;HE Qualification;80-90%;0-35;0;60;N;Fail
+FFF;2014J;682436;M;North Region;Lower Than A Level;70-80%;0-35;0;90;N;Pass
+FFF;2014J;682437;M;South Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;682482;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;682504;M;Wales;A Level or Equivalent;90-100%;0-35;0;90;N;Withdrawn
+FFF;2014J;682505;M;North Region;Lower Than A Level;;0-35;0;60;N;Withdrawn
+FFF;2014J;682511;M;South West Region;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;682524;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;Y;Withdrawn
+FFF;2014J;682539;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;682546;M;South East Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;682565;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;240;N;Withdrawn
+FFF;2014J;682569;M;South Region;A Level or Equivalent;20-30%;35-55;0;120;N;Pass
+FFF;2014J;682578;M;Ireland;Lower Than A Level;50-60%;0-35;0;120;N;Fail
+FFF;2014J;682588;M;South East Region;Lower Than A Level;90-100%;35-55;0;60;N;Fail
+FFF;2014J;682596;F;London Region;A Level or Equivalent;0-10%;35-55;0;60;N;Withdrawn
+FFF;2014J;682613;M;Wales;HE Qualification;40-50%;0-35;0;60;N;Pass
+FFF;2014J;682617;M;North Western Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;682632;F;London Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;682671;F;North Western Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;682695;F;East Anglian Region;Lower Than A Level;80-90%;0-35;0;150;Y;Pass
+FFF;2014J;682719;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;682753;M;South Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;682839;M;London Region;Lower Than A Level;80-90%;35-55;0;120;N;Pass
+FFF;2014J;682863;F;East Anglian Region;Lower Than A Level;oct-20;35-55;0;60;N;Withdrawn
+FFF;2014J;682894;M;South Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;682946;M;East Anglian Region;Lower Than A Level;40-50%;35-55;0;120;N;Withdrawn
+FFF;2014J;682963;M;South Region;HE Qualification;60-70%;35-55;0;120;N;Pass
+FFF;2014J;682981;M;London Region;A Level or Equivalent;oct-20;0-35;0;120;Y;Distinction
+FFF;2014J;682982;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;682983;M;South West Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;682985;M;Scotland;HE Qualification;90-100%;0-35;0;60;N;Fail
+FFF;2014J;682990;M;South East Region;A Level or Equivalent;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;683033;F;South Region;Lower Than A Level;70-80%;0-35;0;120;N;Pass
+FFF;2014J;683094;M;Ireland;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;683144;M;North Western Region;HE Qualification;0-10%;35-55;0;60;N;Withdrawn
+FFF;2014J;683177;F;South Region;A Level or Equivalent;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;683178;M;North Western Region;A Level or Equivalent;0-10%;35-55;0;60;N;Pass
+FFF;2014J;683243;M;West Midlands Region;A Level or Equivalent;40-50%;0-35;0;90;N;Fail
+FFF;2014J;683273;M;Yorkshire Region;A Level or Equivalent;0-10%;0-35;0;120;Y;Fail
+FFF;2014J;683305;F;Wales;HE Qualification;80-90%;0-35;0;120;N;Pass
+FFF;2014J;683323;M;Wales;Lower Than A Level;20-30%;0-35;0;120;Y;Fail
+FFF;2014J;683346;M;North Region;Lower Than A Level;;35-55;0;60;N;Distinction
+FFF;2014J;683347;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;683352;M;Yorkshire Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;683353;M;Wales;Lower Than A Level;0-10%;0-35;0;90;N;Pass
+FFF;2014J;683360;M;South East Region;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;683375;M;North Western Region;Lower Than A Level;70-80%;0-35;0;120;N;Pass
+FFF;2014J;683403;M;Wales;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;683427;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;683446;M;South Region;Lower Than A Level;70-80%;0-35;0;60;N;Fail
+FFF;2014J;683467;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;120;Y;Pass
+FFF;2014J;683508;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Fail
+FFF;2014J;683530;M;North Region;Lower Than A Level;;35-55;0;60;N;Distinction
+FFF;2014J;683547;M;West Midlands Region;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;683550;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;60;N;Pass
+FFF;2014J;683555;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;683576;M;Scotland;A Level or Equivalent;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;683604;M;South Region;HE Qualification;70-80%;35-55;0;90;N;Pass
+FFF;2014J;683624;M;Wales;Lower Than A Level;30-40%;0-35;0;120;N;Distinction
+FFF;2014J;683628;M;London Region;A Level or Equivalent;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;683642;M;London Region;A Level or Equivalent;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;683699;F;South East Region;A Level or Equivalent;30-40%;0-35;0;60;Y;Withdrawn
+FFF;2014J;683745;M;Scotland;A Level or Equivalent;80-90%;0-35;0;60;N;Fail
+FFF;2014J;683764;M;Scotland;A Level or Equivalent;70-80%;0-35;0;60;N;Fail
+FFF;2014J;683772;M;Yorkshire Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;683820;M;Scotland;Lower Than A Level;30-40%;0-35;0;90;N;Pass
+FFF;2014J;683832;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;683902;M;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;683912;F;South Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;683934;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;684013;M;Wales;Lower Than A Level;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;684014;F;North Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;684040;M;North Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;684075;F;Wales;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;684183;M;North Region;A Level or Equivalent;;35-55;0;60;N;Pass
+FFF;2014J;684311;M;South Region;A Level or Equivalent;20-30%;0-35;0;90;N;Pass
+FFF;2014J;684313;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;684383;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;684386;M;North Western Region;Lower Than A Level;40-50%;0-35;0;90;N;Pass
+FFF;2014J;684526;M;East Anglian Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;684572;M;South West Region;Lower Than A Level;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;684579;M;East Anglian Region;A Level or Equivalent;80-90%;0-35;0;150;N;Withdrawn
+FFF;2014J;684592;M;South West Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;684594;M;East Anglian Region;Lower Than A Level;50-60%;35-55;0;90;N;Withdrawn
+FFF;2014J;684671;M;South East Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;684675;M;South West Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;684676;M;North Western Region;Lower Than A Level;20-30%;0-35;0;60;N;Fail
+FFF;2014J;684726;F;London Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;684882;M;Wales;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;684981;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;684983;M;Yorkshire Region;A Level or Equivalent;oct-20;35-55;0;150;N;Withdrawn
+FFF;2014J;685004;M;South East Region;Lower Than A Level;oct-20;0-35;0;90;N;Fail
+FFF;2014J;685042;M;South Region;HE Qualification;oct-20;0-35;0;150;N;Withdrawn
+FFF;2014J;685100;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;685105;M;South West Region;Lower Than A Level;40-50%;0-35;0;180;N;Fail
+FFF;2014J;685128;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;120;N;Pass
+FFF;2014J;685140;M;East Anglian Region;HE Qualification;80-90%;0-35;0;120;N;Pass
+FFF;2014J;685155;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;685192;M;London Region;Lower Than A Level;20-30%;0-35;0;180;N;Withdrawn
+FFF;2014J;685212;M;West Midlands Region;HE Qualification;30-40%;35-55;0;120;N;Distinction
+FFF;2014J;685276;F;London Region;Lower Than A Level;60-70%;0-35;0;90;N;Distinction
+FFF;2014J;685283;M;Scotland;Lower Than A Level;70-80%;0-35;0;60;N;Fail
+FFF;2014J;685330;M;Ireland;Lower Than A Level;;35-55;0;60;N;Withdrawn
+FFF;2014J;685333;M;South Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;685339;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;90;N;Pass
+FFF;2014J;685367;M;Ireland;Lower Than A Level;60-70%;0-35;0;60;Y;Fail
+FFF;2014J;685373;M;Yorkshire Region;No Formal quals;0-10%;0-35;0;60;N;Distinction
+FFF;2014J;685378;M;West Midlands Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;685410;M;North Region;Lower Than A Level;0-10%;0-35;0;120;N;Pass
+FFF;2014J;685439;F;South West Region;A Level or Equivalent;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;685512;M;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;685565;M;East Midlands Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;685619;M;Scotland;HE Qualification;0-10%;0-35;0;105;Y;Pass
+FFF;2014J;685657;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;685663;F;South East Region;A Level or Equivalent;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;685683;M;East Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;685705;M;Yorkshire Region;A Level or Equivalent;20-30%;0-35;0;120;N;Pass
+FFF;2014J;685708;F;London Region;A Level or Equivalent;0-10%;0-35;0;120;N;Pass
+FFF;2014J;685772;M;South Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;685802;M;South West Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;685807;M;East Anglian Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;685831;M;Ireland;A Level or Equivalent;70-80%;0-35;0;90;N;Pass
+FFF;2014J;685860;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;210;N;Withdrawn
+FFF;2014J;685920;M;London Region;A Level or Equivalent;80-90%;35-55;0;120;Y;Withdrawn
+FFF;2014J;685928;M;North Western Region;A Level or Equivalent;50-60%;0-35;0;120;N;Fail
+FFF;2014J;685952;M;London Region;A Level or Equivalent;70-80%;0-35;0;120;N;Fail
+FFF;2014J;685998;M;South East Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;686065;M;Scotland;A Level or Equivalent;50-60%;0-35;0;60;N;Distinction
+FFF;2014J;686100;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;90;N;Withdrawn
+FFF;2014J;686164;M;Scotland;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;686314;M;South West Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;686317;F;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;120;N;Pass
+FFF;2014J;686344;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;686348;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;120;Y;Pass
+FFF;2014J;686358;M;East Midlands Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;686390;M;South East Region;HE Qualification;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;686448;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;686458;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;60;Y;Withdrawn
+FFF;2014J;686498;M;North Region;HE Qualification;oct-20;0-35;0;60;N;Pass
+FFF;2014J;686522;M;West Midlands Region;HE Qualification;0-10%;35-55;0;90;N;Pass
+FFF;2014J;686558;M;East Midlands Region;A Level or Equivalent;50-60%;0-35;0;120;N;Pass
+FFF;2014J;686700;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;686705;F;South East Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;686760;M;Yorkshire Region;HE Qualification;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;686786;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;60;Y;Fail
+FFF;2014J;686799;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;90;N;Withdrawn
+FFF;2014J;686852;F;South East Region;Lower Than A Level;0-10%;0-35;0;180;N;Withdrawn
+FFF;2014J;686869;M;South Region;Lower Than A Level;50-60%;0-35;0;150;N;Withdrawn
+FFF;2014J;686946;M;London Region;A Level or Equivalent;50-60%;0-35;0;120;N;Fail
+FFF;2014J;687007;M;South Region;Lower Than A Level;20-30%;35-55;0;60;N;Fail
+FFF;2014J;687033;M;Wales;A Level or Equivalent;80-90%;0-35;0;120;N;Fail
+FFF;2014J;687073;M;South West Region;A Level or Equivalent;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;687112;M;North Western Region;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;687115;M;South West Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;687288;M;South Region;A Level or Equivalent;70-80%;0-35;0;90;N;Withdrawn
+FFF;2014J;687304;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;120;N;Fail
+FFF;2014J;687319;M;West Midlands Region;Lower Than A Level;oct-20;35-55;0;240;N;Withdrawn
+FFF;2014J;687331;M;Wales;Lower Than A Level;oct-20;0-35;0;60;Y;Fail
+FFF;2014J;687341;M;South West Region;A Level or Equivalent;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;687345;M;South Region;A Level or Equivalent;60-70%;0-35;0;90;N;Fail
+FFF;2014J;687351;M;Scotland;HE Qualification;30-40%;0-35;0;60;N;Pass
+FFF;2014J;687410;M;North Region;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;687434;M;Yorkshire Region;Lower Than A Level;80-90%;35-55;0;90;N;Distinction
+FFF;2014J;687448;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;687468;F;South West Region;HE Qualification;40-50%;0-35;0;60;N;Distinction
+FFF;2014J;687485;F;West Midlands Region;A Level or Equivalent;80-90%;0-35;0;180;N;Pass
+FFF;2014J;687503;F;South West Region;Lower Than A Level;30-40%;35-55;0;120;N;Pass
+FFF;2014J;687510;M;South Region;Lower Than A Level;40-50%;0-35;0;240;N;Withdrawn
+FFF;2014J;687511;M;London Region;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;687525;M;Ireland;A Level or Equivalent;50-60%;0-35;0;60;N;Fail
+FFF;2014J;687686;M;South Region;A Level or Equivalent;60-70%;0-35;0;120;N;Fail
+FFF;2014J;687747;M;London Region;A Level or Equivalent;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;687752;M;South Region;A Level or Equivalent;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;687795;M;South East Region;Lower Than A Level;80-90%;35-55;0;120;N;Withdrawn
+FFF;2014J;687828;M;Ireland;Lower Than A Level;50-60%;35-55;0;60;N;Fail
+FFF;2014J;687846;M;East Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;687910;M;East Anglian Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;687930;F;East Anglian Region;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;687931;M;South Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;687988;M;Ireland;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;688005;M;South Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;688008;F;London Region;HE Qualification;0-10%;0-35;0;120;N;Pass
+FFF;2014J;688071;M;Scotland;A Level or Equivalent;40-50%;0-35;0;120;N;Fail
+FFF;2014J;688097;M;South East Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;688127;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;688136;M;East Anglian Region;Lower Than A Level;oct-20;35-55;0;150;N;Fail
+FFF;2014J;688159;M;South West Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;688187;M;Yorkshire Region;A Level or Equivalent;60-70%;35-55;0;60;N;Withdrawn
+FFF;2014J;688192;F;Wales;A Level or Equivalent;30-40%;0-35;0;90;N;Fail
+FFF;2014J;688203;M;London Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;688225;M;Scotland;Lower Than A Level;40-50%;0-35;0;60;N;Fail
+FFF;2014J;688250;M;Wales;A Level or Equivalent;30-40%;0-35;0;60;N;Fail
+FFF;2014J;688251;M;Scotland;HE Qualification;80-90%;35-55;0;120;N;Withdrawn
+FFF;2014J;688265;M;East Anglian Region;Lower Than A Level;30-40%;0-35;0;60;N;Fail
+FFF;2014J;688297;M;South West Region;A Level or Equivalent;90-100%;0-35;0;120;N;Withdrawn
+FFF;2014J;688326;M;Wales;HE Qualification;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;688337;M;South West Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;688442;F;West Midlands Region;HE Qualification;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;688453;M;Wales;Lower Than A Level;20-30%;0-35;0;120;N;Fail
+FFF;2014J;688470;M;East Midlands Region;Lower Than A Level;50-60%;0-35;0;60;N;Fail
+FFF;2014J;688475;M;South West Region;A Level or Equivalent;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;688509;M;Yorkshire Region;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;688532;M;Yorkshire Region;Lower Than A Level;20-30%;0-35;0;60;Y;Withdrawn
+FFF;2014J;688543;F;North Western Region;HE Qualification;oct-20;0-35;0;120;N;Pass
+FFF;2014J;688664;M;South East Region;A Level or Equivalent;60-70%;0-35;0;60;Y;Withdrawn
+FFF;2014J;688667;M;North Western Region;HE Qualification;20-30%;0-35;0;120;N;Pass
+FFF;2014J;688685;M;Scotland;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;688727;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;120;N;Distinction
+FFF;2014J;688752;F;East Midlands Region;Lower Than A Level;oct-20;0-35;0;120;N;Withdrawn
+FFF;2014J;688881;F;Wales;Lower Than A Level;40-50%;35-55;0;240;N;Withdrawn
+FFF;2014J;688891;M;East Midlands Region;A Level or Equivalent;90-100%;0-35;0;180;N;Fail
+FFF;2014J;688895;M;Ireland;Lower Than A Level;;0-35;0;60;N;Distinction
+FFF;2014J;688904;M;West Midlands Region;Lower Than A Level;;0-35;0;60;N;Withdrawn
+FFF;2014J;688937;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;688964;M;West Midlands Region;Lower Than A Level;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;688976;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;120;N;Fail
+FFF;2014J;689005;M;South West Region;A Level or Equivalent;40-50%;0-35;0;60;N;Pass
+FFF;2014J;689042;M;West Midlands Region;Lower Than A Level;40-50%;35-55;0;90;N;Withdrawn
+FFF;2014J;689051;M;North Western Region;Lower Than A Level;30-40%;35-55;0;120;N;Withdrawn
+FFF;2014J;689052;M;North Western Region;HE Qualification;0-10%;0-35;0;60;N;Fail
+FFF;2014J;689056;M;North Region;A Level or Equivalent;;35-55;0;60;N;Pass
+FFF;2014J;689225;M;Scotland;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;689260;M;North Western Region;A Level or Equivalent;oct-20;35-55;0;120;Y;Pass
+FFF;2014J;689280;M;North Western Region;A Level or Equivalent;70-80%;35-55;0;60;N;Distinction
+FFF;2014J;689290;F;South Region;Lower Than A Level;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;689347;M;South Region;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;689352;M;London Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;689444;F;Scotland;A Level or Equivalent;40-50%;35-55;0;60;N;Fail
+FFF;2014J;689498;M;North Region;Lower Than A Level;0-10%;0-35;0;240;N;Withdrawn
+FFF;2014J;689533;F;North Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;689582;M;West Midlands Region;Lower Than A Level;50-60%;35-55;0;60;N;Withdrawn
+FFF;2014J;689585;M;North Western Region;A Level or Equivalent;30-40%;35-55;0;120;Y;Withdrawn
+FFF;2014J;689626;M;London Region;Lower Than A Level;oct-20;0-35;0;120;N;Fail
+FFF;2014J;689640;M;London Region;A Level or Equivalent;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;689747;F;North Western Region;Lower Than A Level;oct-20;0-35;0;120;Y;Withdrawn
+FFF;2014J;689751;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;689761;F;Yorkshire Region;Lower Than A Level;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;689796;F;Yorkshire Region;Lower Than A Level;20-30%;0-35;0;60;N;Pass
+FFF;2014J;689827;F;Ireland;A Level or Equivalent;;0-35;0;60;N;Withdrawn
+FFF;2014J;689832;M;West Midlands Region;Lower Than A Level;40-50%;0-35;0;60;Y;Pass
+FFF;2014J;689855;M;South West Region;A Level or Equivalent;20-30%;0-35;0;150;N;Distinction
+FFF;2014J;689924;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;120;N;Pass
+FFF;2014J;689977;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;690075;M;London Region;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;690137;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;690174;F;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;690198;F;West Midlands Region;A Level or Equivalent;30-40%;0-35;0;60;N;Distinction
+FFF;2014J;690296;M;South East Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;690382;M;Scotland;HE Qualification;oct-20;0-35;0;120;N;Pass
+FFF;2014J;690559;M;London Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;690585;M;North Western Region;Lower Than A Level;80-90%;0-35;0;60;N;Fail
+FFF;2014J;690628;M;Scotland;HE Qualification;70-80%;0-35;0;120;N;Pass
+FFF;2014J;690631;M;Scotland;A Level or Equivalent;40-50%;35-55;0;240;N;Withdrawn
+FFF;2014J;690635;M;East Midlands Region;HE Qualification;60-70%;0-35;0;60;N;Distinction
+FFF;2014J;690656;M;London Region;Lower Than A Level;oct-20;0-35;0;150;Y;Withdrawn
+FFF;2014J;690687;M;West Midlands Region;A Level or Equivalent;0-10%;35-55;0;180;N;Withdrawn
+FFF;2014J;690746;F;Scotland;HE Qualification;80-90%;35-55;0;90;N;Distinction
+FFF;2014J;690832;M;Scotland;A Level or Equivalent;20-30%;35-55;0;120;N;Fail
+FFF;2014J;690872;M;East Midlands Region;Lower Than A Level;80-90%;0-35;0;120;N;Pass
+FFF;2014J;690962;M;South East Region;A Level or Equivalent;60-70%;0-35;0;180;N;Withdrawn
+FFF;2014J;691056;M;North Western Region;Lower Than A Level;50-60%;0-35;0;180;N;Withdrawn
+FFF;2014J;691177;M;South Region;A Level or Equivalent;70-80%;0-35;0;120;N;Fail
+FFF;2014J;691253;M;West Midlands Region;Lower Than A Level;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;691269;M;West Midlands Region;Lower Than A Level;90-100%;0-35;0;60;N;Pass
+FFF;2014J;691280;M;East Anglian Region;HE Qualification;90-100%;0-35;0;150;N;Pass
+FFF;2014J;691288;F;Scotland;Lower Than A Level;20-30%;35-55;0;120;N;Fail
+FFF;2014J;691326;F;Scotland;Lower Than A Level;30-40%;0-35;0;90;N;Fail
+FFF;2014J;691375;M;Scotland;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;691465;M;London Region;HE Qualification;30-40%;35-55;0;120;N;Fail
+FFF;2014J;691563;M;East Midlands Region;Lower Than A Level;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;691699;M;South Region;Lower Than A Level;80-90%;0-35;0;120;N;Pass
+FFF;2014J;691722;M;Scotland;HE Qualification;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;691805;M;North Western Region;Lower Than A Level;50-60%;0-35;0;180;N;Withdrawn
+FFF;2014J;691873;M;East Midlands Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;691932;M;North Western Region;A Level or Equivalent;0-10%;35-55;0;120;N;Pass
+FFF;2014J;692010;F;South East Region;A Level or Equivalent;90-100%;35-55;0;120;N;Pass
+FFF;2014J;692097;F;East Midlands Region;HE Qualification;oct-20;0-35;0;120;N;Pass
+FFF;2014J;692189;M;North Western Region;Lower Than A Level;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;692219;M;South Region;A Level or Equivalent;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;692220;M;North Western Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;692273;M;East Midlands Region;A Level or Equivalent;80-90%;0-35;0;120;N;Withdrawn
+FFF;2014J;692297;M;South Region;Lower Than A Level;50-60%;35-55;0;60;Y;Fail
+FFF;2014J;692301;M;Scotland;A Level or Equivalent;60-70%;0-35;0;90;N;Pass
+FFF;2014J;692334;M;Ireland;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;692454;M;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;90;N;Pass
+FFF;2014J;692612;M;London Region;A Level or Equivalent;oct-20;35-55;0;90;N;Pass
+FFF;2014J;692632;M;South Region;A Level or Equivalent;oct-20;0-35;0;60;N;Fail
+FFF;2014J;692740;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;692893;M;East Anglian Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;692898;M;South West Region;A Level or Equivalent;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;692946;M;South East Region;Lower Than A Level;70-80%;0-35;0;60;N;Fail
+FFF;2014J;692962;M;West Midlands Region;HE Qualification;90-100%;0-35;0;60;N;Pass
+FFF;2014J;692968;M;East Anglian Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;692976;M;North Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;693114;M;East Anglian Region;A Level or Equivalent;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;693160;M;Yorkshire Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;693162;M;Wales;A Level or Equivalent;40-50%;35-55;0;60;N;Distinction
+FFF;2014J;693197;M;North Western Region;A Level or Equivalent;oct-20;0-35;0;120;Y;Pass
+FFF;2014J;693223;M;South Region;Lower Than A Level;80-90%;0-35;0;60;N;Withdrawn
+FFF;2014J;693236;M;North Region;HE Qualification;;0-35;0;120;N;Pass
+FFF;2014J;693246;M;London Region;Lower Than A Level;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;693345;F;Ireland;HE Qualification;;0-35;0;150;N;Pass
+FFF;2014J;693373;M;Ireland;A Level or Equivalent;90-100%;0-35;0;60;N;Distinction
+FFF;2014J;693448;M;North Region;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;693497;M;South Region;HE Qualification;80-90%;0-35;0;60;N;Pass
+FFF;2014J;693519;M;North Region;HE Qualification;;0-35;0;90;N;Pass
+FFF;2014J;693573;M;Yorkshire Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;693628;M;East Anglian Region;A Level or Equivalent;50-60%;35-55;0;120;N;Pass
+FFF;2014J;693629;M;London Region;A Level or Equivalent;80-90%;0-35;0;90;N;Fail
+FFF;2014J;693764;M;North Region;Lower Than A Level;20-30%;35-55;0;120;N;Pass
+FFF;2014J;693806;F;London Region;Lower Than A Level;30-40%;0-35;0;180;N;Distinction
+FFF;2014J;693812;M;Yorkshire Region;No Formal quals;0-10%;0-35;0;240;N;Withdrawn
+FFF;2014J;693873;M;South West Region;HE Qualification;20-30%;0-35;0;180;N;Fail
+FFF;2014J;693903;M;South East Region;A Level or Equivalent;70-80%;0-35;0;60;N;Distinction
+FFF;2014J;693906;M;Scotland;A Level or Equivalent;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;693907;F;North Western Region;Lower Than A Level;0-10%;35-55;0;180;N;Pass
+FFF;2014J;694059;F;Scotland;HE Qualification;40-50%;35-55;0;60;N;Withdrawn
+FFF;2014J;694128;M;North Region;Lower Than A Level;;0-35;0;90;N;Pass
+FFF;2014J;694144;M;North Region;A Level or Equivalent;;35-55;0;60;N;Distinction
+FFF;2014J;694221;M;Scotland;Lower Than A Level;40-50%;0-35;0;60;N;Fail
+FFF;2014J;694272;M;East Midlands Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;694284;F;West Midlands Region;Lower Than A Level;80-90%;0-35;0;120;Y;Withdrawn
+FFF;2014J;694376;M;South West Region;A Level or Equivalent;80-90%;0-35;0;90;N;Fail
+FFF;2014J;694415;F;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;694428;M;South East Region;A Level or Equivalent;50-60%;0-35;0;60;N;Pass
+FFF;2014J;694456;M;South Region;HE Qualification;70-80%;0-35;0;60;N;Pass
+FFF;2014J;694464;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;694536;M;South East Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;694622;M;South East Region;A Level or Equivalent;oct-20;0-35;0;60;Y;Pass
+FFF;2014J;694669;M;London Region;A Level or Equivalent;20-30%;0-35;0;180;Y;Withdrawn
+FFF;2014J;694715;M;East Midlands Region;A Level or Equivalent;20-30%;0-35;0;180;N;Withdrawn
+FFF;2014J;694716;M;Ireland;HE Qualification;90-100%;0-35;0;90;N;Pass
+FFF;2014J;694827;M;North Region;HE Qualification;;0-35;0;60;N;Pass
+FFF;2014J;694836;F;East Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;694848;M;East Midlands Region;A Level or Equivalent;90-100%;35-55;0;120;N;Distinction
+FFF;2014J;695090;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;120;N;Pass
+FFF;2014J;695169;M;West Midlands Region;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;695220;M;North Region;Lower Than A Level;;35-55;0;180;Y;Withdrawn
+FFF;2014J;695250;M;North Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;695251;M;Ireland;HE Qualification;;0-35;0;60;N;Withdrawn
+FFF;2014J;695369;F;North Western Region;Lower Than A Level;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;695380;M;North Western Region;Lower Than A Level;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;695416;M;South East Region;Lower Than A Level;60-70%;0-35;0;240;N;Withdrawn
+FFF;2014J;695449;M;North Region;HE Qualification;;35-55;0;120;N;Withdrawn
+FFF;2014J;695471;M;South Region;Lower Than A Level;80-90%;0-35;0;60;N;Pass
+FFF;2014J;695485;M;South Region;Lower Than A Level;90-100%;35-55;0;60;Y;Pass
+FFF;2014J;695550;M;London Region;A Level or Equivalent;70-80%;0-35;0;90;N;Fail
+FFF;2014J;695574;F;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;695637;M;North Region;A Level or Equivalent;;35-55;0;120;N;Distinction
+FFF;2014J;695676;M;London Region;Lower Than A Level;50-60%;0-35;0;120;N;Withdrawn
+FFF;2014J;695700;M;South West Region;A Level or Equivalent;70-80%;0-35;0;150;N;Fail
+FFF;2014J;695729;M;London Region;Lower Than A Level;0-10%;35-55;0;60;N;Pass
+FFF;2014J;695748;M;London Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;695764;M;London Region;No Formal quals;0-10%;0-35;0;210;N;Withdrawn
+FFF;2014J;695803;M;South Region;HE Qualification;90-100%;35-55;0;60;N;Pass
+FFF;2014J;695825;M;North Region;Lower Than A Level;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;695869;M;South Region;A Level or Equivalent;90-100%;35-55;0;60;N;Pass
+FFF;2014J;695879;F;East Anglian Region;A Level or Equivalent;30-40%;0-35;0;120;N;Withdrawn
+FFF;2014J;695926;M;South West Region;Lower Than A Level;30-40%;0-35;0;120;N;Fail
+FFF;2014J;695964;M;East Anglian Region;Lower Than A Level;40-50%;0-35;0;120;N;Withdrawn
+FFF;2014J;696039;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;696043;F;South East Region;Lower Than A Level;60-70%;0-35;0;120;Y;Distinction
+FFF;2014J;696071;F;South West Region;Lower Than A Level;30-40%;0-35;0;90;Y;Withdrawn
+FFF;2014J;696082;M;South Region;A Level or Equivalent;;0-35;0;60;N;Pass
+FFF;2014J;696091;M;East Midlands Region;Lower Than A Level;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;696188;M;North Region;Lower Than A Level;;0-35;0;120;N;Pass
+FFF;2014J;696253;M;South West Region;Lower Than A Level;50-60%;0-35;0;120;Y;Withdrawn
+FFF;2014J;696275;M;Ireland;Lower Than A Level;;35-55;0;60;N;Distinction
+FFF;2014J;696276;M;Ireland;HE Qualification;;0-35;0;60;N;Withdrawn
+FFF;2014J;696318;M;South Region;A Level or Equivalent;70-80%;0-35;0;90;N;Distinction
+FFF;2014J;696329;M;Ireland;A Level or Equivalent;90-100%;0-35;0;120;N;Distinction
+FFF;2014J;696347;F;South East Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;696364;M;Ireland;A Level or Equivalent;20-30%;0-35;0;60;N;Pass
+FFF;2014J;696410;M;London Region;Lower Than A Level;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;696456;M;Scotland;A Level or Equivalent;oct-20;0-35;0;60;N;Fail
+FFF;2014J;696583;M;South East Region;A Level or Equivalent;60-70%;0-35;0;60;Y;Fail
+FFF;2014J;696615;M;South Region;A Level or Equivalent;70-80%;0-35;0;60;N;Fail
+FFF;2014J;696653;M;London Region;A Level or Equivalent;90-100%;0-35;0;90;N;Fail
+FFF;2014J;696659;F;North Western Region;A Level or Equivalent;40-50%;0-35;0;120;N;Pass
+FFF;2014J;696662;F;South West Region;A Level or Equivalent;60-70%;0-35;0;120;N;Distinction
+FFF;2014J;696664;F;South Region;HE Qualification;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;696666;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;120;N;Fail
+FFF;2014J;696671;F;London Region;A Level or Equivalent;0-10%;0-35;0;120;N;Pass
+FFF;2014J;696672;M;South East Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;696674;M;London Region;A Level or Equivalent;90-100%;0-35;0;120;N;Pass
+FFF;2014J;696678;F;North Western Region;A Level or Equivalent;80-90%;0-35;0;120;N;Pass
+FFF;2014J;696729;M;North Western Region;A Level or Equivalent;30-40%;0-35;0;60;N;Pass
+FFF;2014J;696943;F;North Western Region;A Level or Equivalent;0-10%;0-35;0;120;Y;Withdrawn
+FFF;2014J;696981;F;North Region;Lower Than A Level;40-50%;0-35;0;60;N;Withdrawn
+FFF;2014J;696985;M;South West Region;Lower Than A Level;20-30%;35-55;0;120;N;Withdrawn
+FFF;2014J;697027;M;South West Region;Lower Than A Level;30-40%;0-35;0;120;N;Fail
+FFF;2014J;697042;M;North Western Region;Lower Than A Level;20-30%;0-35;0;180;N;Withdrawn
+FFF;2014J;697114;M;West Midlands Region;A Level or Equivalent;oct-20;0-35;0;60;N;Pass
+FFF;2014J;697160;M;South Region;Lower Than A Level;40-50%;0-35;0;90;N;Fail
+FFF;2014J;697192;M;Yorkshire Region;Lower Than A Level;0-10%;0-35;0;150;N;Withdrawn
+FFF;2014J;697204;M;Yorkshire Region;Lower Than A Level;90-100%;0-35;0;60;Y;Withdrawn
+FFF;2014J;697215;M;Yorkshire Region;Lower Than A Level;oct-20;0-35;0;60;N;Withdrawn
+FFF;2014J;697255;M;Scotland;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;697257;M;North Western Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;697299;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;60;N;Withdrawn
+FFF;2014J;697438;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;Y;Withdrawn
+FFF;2014J;697478;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;60;Y;Pass
+FFF;2014J;697529;M;North Region;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;697554;M;London Region;A Level or Equivalent;30-40%;0-35;0;240;N;Withdrawn
+FFF;2014J;697581;M;South West Region;Lower Than A Level;30-40%;0-35;0;60;N;Withdrawn
+FFF;2014J;697665;M;North Western Region;Lower Than A Level;90-100%;0-35;0;90;N;Withdrawn
+FFF;2014J;697878;M;South Region;Lower Than A Level;50-60%;0-35;0;60;N;Pass
+FFF;2014J;697998;M;East Anglian Region;Lower Than A Level;90-100%;35-55;0;120;N;Pass
+FFF;2014J;698015;M;Yorkshire Region;A Level or Equivalent;0-10%;0-35;0;60;N;Pass
+FFF;2014J;698020;F;London Region;Lower Than A Level;20-30%;0-35;0;60;N;Withdrawn
+FFF;2014J;698112;M;South West Region;A Level or Equivalent;70-80%;0-35;0;120;N;Withdrawn
+FFF;2014J;698157;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;150;Y;Fail
+FFF;2014J;698193;M;North Western Region;Lower Than A Level;20-30%;0-35;0;90;N;Fail
+FFF;2014J;698233;M;South West Region;Lower Than A Level;50-60%;0-35;0;150;N;Withdrawn
+FFF;2014J;698237;F;North Western Region;HE Qualification;50-60%;0-35;0;60;N;Withdrawn
+FFF;2014J;698278;F;East Midlands Region;A Level or Equivalent;30-40%;0-35;0;150;N;Withdrawn
+FFF;2014J;698384;M;Scotland;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;698407;M;West Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;698485;M;South Region;A Level or Equivalent;40-50%;0-35;0;90;Y;Pass
+FFF;2014J;698656;F;North Western Region;A Level or Equivalent;70-80%;0-35;0;120;N;Pass
+FFF;2014J;698762;F;London Region;A Level or Equivalent;70-80%;35-55;0;120;N;Withdrawn
+FFF;2014J;699126;M;South Region;Lower Than A Level;40-50%;0-35;0;90;N;Pass
+FFF;2014J;699127;M;London Region;Lower Than A Level;80-90%;0-35;0;90;N;Fail
+FFF;2014J;699128;M;East Anglian Region;A Level or Equivalent;50-60%;0-35;0;90;N;Pass
+FFF;2014J;836614;M;South Region;HE Qualification;90-100%;55<=;0;60;N;Fail
+FFF;2014J;884652;M;Scotland;A Level or Equivalent;70-80%;35-55;2;120;Y;Withdrawn
+FFF;2014J;895524;M;South Region;HE Qualification;90-100%;55<=;0;90;N;Distinction
+FFF;2014J;900936;M;Yorkshire Region;A Level or Equivalent;40-50%;55<=;0;120;N;Withdrawn
+FFF;2014J;1021350;M;London Region;Lower Than A Level;oct-20;55<=;0;90;N;Fail
+FFF;2014J;1042726;M;Scotland;A Level or Equivalent;30-40%;35-55;0;60;N;Fail
+FFF;2014J;1318759;M;Scotland;HE Qualification;50-60%;35-55;0;60;N;Pass
+FFF;2014J;1348205;M;East Anglian Region;HE Qualification;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;1391717;M;Ireland;HE Qualification;0-10%;35-55;0;60;N;Pass
+FFF;2014J;1409532;M;West Midlands Region;A Level or Equivalent;50-60%;35-55;0;120;N;Fail
+FFF;2014J;1413902;M;Ireland;Lower Than A Level;0-10%;35-55;0;120;N;Fail
+FFF;2014J;1424608;M;South Region;A Level or Equivalent;90-100%;35-55;0;60;N;Withdrawn
+FFF;2014J;1448966;M;South West Region;HE Qualification;50-60%;35-55;0;60;N;Pass
+FFF;2014J;1449171;M;Scotland;HE Qualification;;35-55;0;60;N;Withdrawn
+FFF;2014J;1450604;M;North Region;A Level or Equivalent;70-80%;35-55;1;90;N;Pass
+FFF;2014J;1459010;M;North Region;Lower Than A Level;oct-20;35-55;1;180;N;Withdrawn
+FFF;2014J;1473878;M;Scotland;HE Qualification;30-40%;35-55;0;120;Y;Pass
+FFF;2014J;1477284;M;East Midlands Region;Lower Than A Level;40-50%;35-55;0;120;N;Withdrawn
+FFF;2014J;1501577;M;South West Region;A Level or Equivalent;70-80%;35-55;0;120;N;Distinction
+FFF;2014J;1514245;M;East Midlands Region;Lower Than A Level;0-10%;35-55;1;90;N;Withdrawn
+FFF;2014J;1532711;M;London Region;A Level or Equivalent;oct-20;35-55;0;90;Y;Withdrawn
+FFF;2014J;1537796;M;South Region;A Level or Equivalent;90-100%;35-55;0;60;N;Withdrawn
+FFF;2014J;1585671;F;London Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;1588621;M;North Western Region;A Level or Equivalent;0-10%;35-55;1;90;N;Withdrawn
+FFF;2014J;1603549;M;London Region;HE Qualification;70-80%;35-55;0;60;N;Pass
+FFF;2014J;1629444;F;East Anglian Region;A Level or Equivalent;70-80%;35-55;0;180;Y;Withdrawn
+FFF;2014J;1631797;M;East Midlands Region;Lower Than A Level;70-80%;35-55;0;60;N;Pass
+FFF;2014J;1639699;M;South West Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;1640680;M;South Region;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;1658963;M;East Anglian Region;A Level or Equivalent;70-80%;35-55;0;150;N;Pass
+FFF;2014J;1677677;F;London Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;1683192;M;South East Region;A Level or Equivalent;20-30%;35-55;1;60;Y;Withdrawn
+FFF;2014J;1722493;F;Scotland;HE Qualification;40-50%;35-55;0;60;N;Fail
+FFF;2014J;1733664;F;London Region;HE Qualification;oct-20;35-55;0;60;N;Fail
+FFF;2014J;1745145;M;East Anglian Region;Lower Than A Level;30-40%;35-55;0;60;Y;Withdrawn
+FFF;2014J;1752994;M;North Region;A Level or Equivalent;;35-55;0;60;Y;Pass
+FFF;2014J;1755594;M;South East Region;Post Graduate Qualification;40-50%;35-55;0;190;N;Distinction
+FFF;2014J;1765045;F;South Region;A Level or Equivalent;oct-20;35-55;0;120;N;Withdrawn
+FFF;2014J;1766102;M;South East Region;A Level or Equivalent;40-50%;35-55;0;120;N;Fail
+FFF;2014J;1771775;M;Scotland;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;1796402;F;Scotland;A Level or Equivalent;20-30%;35-55;0;60;N;Pass
+FFF;2014J;1810759;M;North Region;HE Qualification;30-40%;0-35;0;60;N;Pass
+FFF;2014J;1816458;M;East Anglian Region;A Level or Equivalent;40-50%;35-55;0;90;N;Pass
+FFF;2014J;1817710;M;Scotland;Post Graduate Qualification;70-80%;35-55;0;90;N;Distinction
+FFF;2014J;1818385;F;Yorkshire Region;Lower Than A Level;30-40%;35-55;1;120;Y;Pass
+FFF;2014J;1836241;M;Scotland;A Level or Equivalent;60-70%;35-55;0;60;N;Pass
+FFF;2014J;1837138;F;East Midlands Region;A Level or Equivalent;90-100%;35-55;0;120;N;Distinction
+FFF;2014J;1856869;M;North Western Region;Lower Than A Level;oct-20;0-35;0;60;N;Fail
+FFF;2014J;1866233;M;East Midlands Region;A Level or Equivalent;oct-20;35-55;1;60;Y;Fail
+FFF;2014J;1871598;M;Scotland;Lower Than A Level;20-30%;35-55;0;60;N;Distinction
+FFF;2014J;1871684;M;Wales;Lower Than A Level;60-70%;35-55;2;90;N;Pass
+FFF;2014J;1873360;M;Wales;Lower Than A Level;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;1877902;M;North Western Region;A Level or Equivalent;70-80%;35-55;0;60;N;Pass
+FFF;2014J;1879321;M;Ireland;HE Qualification;70-80%;35-55;0;90;N;Distinction
+FFF;2014J;1881231;M;East Midlands Region;HE Qualification;60-70%;35-55;0;90;N;Pass
+FFF;2014J;1887108;F;South Region;HE Qualification;90-100%;35-55;0;60;N;Pass
+FFF;2014J;1889752;M;East Anglian Region;HE Qualification;90-100%;55<=;0;90;N;Pass
+FFF;2014J;1895399;M;West Midlands Region;HE Qualification;40-50%;0-35;0;180;N;Withdrawn
+FFF;2014J;1929219;M;South Region;HE Qualification;90-100%;35-55;1;60;N;Withdrawn
+FFF;2014J;1944167;M;North Region;Lower Than A Level;oct-20;35-55;0;60;N;Fail
+FFF;2014J;1948159;F;North Region;A Level or Equivalent;;35-55;1;60;N;Distinction
+FFF;2014J;1961652;F;South West Region;Lower Than A Level;70-80%;0-35;1;90;N;Fail
+FFF;2014J;1962049;M;South Region;A Level or Equivalent;90-100%;35-55;0;90;N;Pass
+FFF;2014J;1962062;M;Scotland;HE Qualification;30-40%;35-55;1;120;N;Fail
+FFF;2014J;1972092;M;South East Region;Lower Than A Level;80-90%;35-55;0;60;N;Pass
+FFF;2014J;1972368;M;West Midlands Region;Lower Than A Level;0-10%;35-55;0;60;N;Withdrawn
+FFF;2014J;1995177;M;West Midlands Region;HE Qualification;70-80%;0-35;0;120;N;Distinction
+FFF;2014J;1998834;M;South Region;A Level or Equivalent;50-60%;0-35;0;80;N;Pass
+FFF;2014J;2017487;M;Scotland;Lower Than A Level;20-30%;35-55;0;60;Y;Distinction
+FFF;2014J;2020628;M;Scotland;A Level or Equivalent;oct-20;35-55;0;60;Y;Pass
+FFF;2014J;2026075;M;Scotland;HE Qualification;90-100%;55<=;0;90;N;Withdrawn
+FFF;2014J;2028523;F;South West Region;A Level or Equivalent;50-60%;35-55;0;90;N;Withdrawn
+FFF;2014J;2029571;M;Yorkshire Region;A Level or Equivalent;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;2035700;F;South West Region;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;2036893;M;Scotland;Lower Than A Level;20-30%;35-55;0;60;Y;Withdrawn
+FFF;2014J;2047575;M;Scotland;Lower Than A Level;40-50%;35-55;0;60;N;Distinction
+FFF;2014J;2065972;M;East Midlands Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;2067799;F;East Midlands Region;Lower Than A Level;70-80%;35-55;0;60;Y;Fail
+FFF;2014J;2071670;M;South East Region;Lower Than A Level;0-10%;35-55;0;120;N;Withdrawn
+FFF;2014J;2081123;M;West Midlands Region;A Level or Equivalent;;0-35;0;60;N;Pass
+FFF;2014J;2088982;M;South Region;A Level or Equivalent;80-90%;35-55;2;60;N;Withdrawn
+FFF;2014J;2096251;M;South Region;Lower Than A Level;40-50%;35-55;0;60;N;Pass
+FFF;2014J;2103552;M;London Region;HE Qualification;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;2104819;F;Wales;Lower Than A Level;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;2106955;F;South East Region;A Level or Equivalent;80-90%;35-55;0;60;N;Distinction
+FFF;2014J;2107747;M;North Region;HE Qualification;;55<=;0;60;N;Withdrawn
+FFF;2014J;2113446;F;East Anglian Region;HE Qualification;60-70%;35-55;0;60;N;Withdrawn
+FFF;2014J;2128283;M;South East Region;HE Qualification;50-60%;35-55;1;60;N;Pass
+FFF;2014J;2137697;F;Yorkshire Region;No Formal quals;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;2138970;M;Scotland;HE Qualification;50-60%;35-55;0;60;N;Pass
+FFF;2014J;2140300;F;North Western Region;A Level or Equivalent;90-100%;35-55;0;240;N;Pass
+FFF;2014J;2143312;M;Scotland;A Level or Equivalent;80-90%;35-55;0;120;N;Distinction
+FFF;2014J;2143440;M;South West Region;Lower Than A Level;40-50%;0-35;0;60;N;Pass
+FFF;2014J;2146013;M;West Midlands Region;Lower Than A Level;20-30%;0-35;0;210;Y;Withdrawn
+FFF;2014J;2154361;M;Scotland;Lower Than A Level;70-80%;0-35;0;60;N;Pass
+FFF;2014J;2160316;F;London Region;HE Qualification;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;2161710;M;Wales;A Level or Equivalent;70-80%;35-55;3;60;N;Fail
+FFF;2014J;2178837;M;Scotland;A Level or Equivalent;60-70%;35-55;0;60;N;Pass
+FFF;2014J;2180090;M;Scotland;HE Qualification;oct-20;35-55;0;180;N;Distinction
+FFF;2014J;2182293;M;North Western Region;A Level or Equivalent;30-40%;35-55;0;120;Y;Fail
+FFF;2014J;2185729;F;Ireland;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;2195853;F;North Region;A Level or Equivalent;0-10%;0-35;3;90;N;Fail
+FFF;2014J;2197766;F;North Region;Lower Than A Level;60-70%;0-35;0;210;N;Distinction
+FFF;2014J;2198970;M;North Western Region;HE Qualification;50-60%;35-55;0;150;N;Withdrawn
+FFF;2014J;2223401;M;South Region;A Level or Equivalent;50-60%;35-55;0;120;N;Withdrawn
+FFF;2014J;2254637;M;South West Region;Lower Than A Level;60-70%;35-55;0;60;N;Pass
+FFF;2014J;2256134;F;Scotland;HE Qualification;20-30%;0-35;0;60;Y;Withdrawn
+FFF;2014J;2268069;M;Ireland;HE Qualification;80-90%;35-55;0;60;N;Withdrawn
+FFF;2014J;2272023;F;London Region;Lower Than A Level;oct-20;35-55;0;60;N;Withdrawn
+FFF;2014J;2274542;M;London Region;Lower Than A Level;20-30%;35-55;0;120;N;Pass
+FFF;2014J;2278101;F;London Region;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;2282620;M;West Midlands Region;A Level or Equivalent;0-10%;0-35;0;60;N;Fail
+FFF;2014J;2283708;M;North Region;A Level or Equivalent;20-30%;0-35;0;90;N;Withdrawn
+FFF;2014J;2293511;M;Yorkshire Region;HE Qualification;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;2298106;M;West Midlands Region;A Level or Equivalent;50-60%;35-55;0;60;N;Distinction
+FFF;2014J;2298895;M;East Anglian Region;A Level or Equivalent;60-70%;35-55;2;60;N;Distinction
+FFF;2014J;2301830;M;North Western Region;Lower Than A Level;oct-20;35-55;0;60;N;Pass
+FFF;2014J;2306410;M;South East Region;Lower Than A Level;0-10%;35-55;0;90;N;Pass
+FFF;2014J;2316717;M;South Region;A Level or Equivalent;20-30%;35-55;0;60;N;Withdrawn
+FFF;2014J;2332934;M;Ireland;Lower Than A Level;70-80%;0-35;2;180;N;Fail
+FFF;2014J;2339267;F;South Region;A Level or Equivalent;80-90%;0-35;0;60;N;Pass
+FFF;2014J;2341420;M;South East Region;A Level or Equivalent;90-100%;0-35;0;60;N;Pass
+FFF;2014J;2342045;M;North Western Region;A Level or Equivalent;20-30%;35-55;0;60;Y;Withdrawn
+FFF;2014J;2343785;M;East Anglian Region;Lower Than A Level;70-80%;0-35;0;120;N;Pass
+FFF;2014J;2351969;M;North Western Region;Lower Than A Level;30-40%;0-35;0;150;N;Pass
+FFF;2014J;2360559;M;South West Region;A Level or Equivalent;80-90%;0-35;0;90;N;Pass
+FFF;2014J;2366656;F;North Western Region;HE Qualification;0-10%;0-35;0;60;N;Distinction
+FFF;2014J;2371481;F;South Region;A Level or Equivalent;oct-20;0-35;0;150;N;Withdrawn
+FFF;2014J;2378208;M;East Anglian Region;HE Qualification;80-90%;0-35;0;90;N;Pass
+FFF;2014J;2386732;F;Wales;Lower Than A Level;70-80%;35-55;0;120;N;Distinction
+FFF;2014J;2395016;F;South Region;A Level or Equivalent;90-100%;0-35;0;60;N;Withdrawn
+FFF;2014J;2398260;M;London Region;Lower Than A Level;oct-20;35-55;0;180;N;Withdrawn
+FFF;2014J;2399758;M;South Region;Lower Than A Level;90-100%;35-55;0;60;N;Pass
+FFF;2014J;2403701;M;South East Region;HE Qualification;70-80%;55<=;0;60;N;Pass
+FFF;2014J;2411981;M;Wales;A Level or Equivalent;20-30%;35-55;0;180;N;Withdrawn
+FFF;2014J;2417433;M;Wales;A Level or Equivalent;0-10%;35-55;3;60;N;Fail
+FFF;2014J;2417975;F;North Western Region;Lower Than A Level;30-40%;0-35;0;90;N;Pass
+FFF;2014J;2424257;M;Yorkshire Region;Lower Than A Level;oct-20;35-55;0;60;N;Fail
+FFF;2014J;2427845;M;South East Region;HE Qualification;oct-20;35-55;0;60;N;Pass
+FFF;2014J;2438784;M;South West Region;Lower Than A Level;90-100%;35-55;0;120;N;Pass
+FFF;2014J;2449490;M;Scotland;HE Qualification;30-40%;0-35;0;120;Y;Withdrawn
+FFF;2014J;2457440;M;West Midlands Region;A Level or Equivalent;;35-55;0;60;N;Pass
+FFF;2014J;2459292;M;South West Region;Lower Than A Level;oct-20;0-35;0;120;N;Pass
+FFF;2014J;2462281;F;London Region;A Level or Equivalent;20-30%;35-55;1;60;Y;Withdrawn
+FFF;2014J;2463282;M;South West Region;Lower Than A Level;70-80%;35-55;2;90;Y;Withdrawn
+FFF;2014J;2468232;M;South Region;HE Qualification;90-100%;35-55;2;210;Y;Withdrawn
+FFF;2014J;2470326;M;East Midlands Region;A Level or Equivalent;oct-20;35-55;0;120;Y;Fail
+FFF;2014J;2480886;F;East Anglian Region;A Level or Equivalent;80-90%;0-35;1;60;Y;Fail
+FFF;2014J;2482710;F;Wales;A Level or Equivalent;70-80%;35-55;0;60;N;Pass
+FFF;2014J;2486215;M;East Anglian Region;A Level or Equivalent;70-80%;0-35;0;180;N;Withdrawn
+FFF;2014J;2486930;M;East Midlands Region;HE Qualification;oct-20;35-55;0;90;N;Pass
+FFF;2014J;2497090;M;North Region;A Level or Equivalent;60-70%;0-35;0;120;N;Withdrawn
+FFF;2014J;2499307;M;East Anglian Region;A Level or Equivalent;60-70%;0-35;1;60;N;Pass
+FFF;2014J;2504129;F;South West Region;Lower Than A Level;0-10%;0-35;0;120;N;Fail
+FFF;2014J;2505058;M;South Region;A Level or Equivalent;oct-20;0-35;0;60;N;Fail
+FFF;2014J;2509531;M;North Western Region;A Level or Equivalent;0-10%;0-35;0;120;N;Withdrawn
+FFF;2014J;2519138;M;South Region;A Level or Equivalent;70-80%;35-55;0;90;N;Pass
+FFF;2014J;2521574;M;East Midlands Region;Lower Than A Level;30-40%;0-35;0;150;N;Withdrawn
+FFF;2014J;2529052;F;East Midlands Region;Lower Than A Level;30-40%;0-35;0;90;N;Fail
+FFF;2014J;2529419;M;West Midlands Region;Lower Than A Level;0-10%;0-35;0;60;N;Pass
+FFF;2014J;2530976;M;East Midlands Region;HE Qualification;20-30%;35-55;0;90;N;Pass
+FFF;2014J;2535160;F;Scotland;A Level or Equivalent;50-60%;35-55;0;60;N;Fail
+FFF;2014J;2537777;M;West Midlands Region;Lower Than A Level;oct-20;0-35;1;120;Y;Fail
+FFF;2014J;2540871;M;North Western Region;Lower Than A Level;0-10%;0-35;0;60;N;Fail
+FFF;2014J;2542209;M;Yorkshire Region;Lower Than A Level;30-40%;35-55;0;150;N;Fail
+FFF;2014J;2544643;F;South Region;A Level or Equivalent;50-60%;0-35;0;120;N;Distinction
+FFF;2014J;2544766;M;South West Region;HE Qualification;90-100%;35-55;0;60;N;Pass
+FFF;2014J;2546315;F;North Region;A Level or Equivalent;;35-55;0;150;N;Distinction
+FFF;2014J;2550534;M;South East Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;2557008;M;London Region;A Level or Equivalent;20-30%;0-35;0;60;Y;Distinction
+FFF;2014J;2558365;M;North Western Region;A Level or Equivalent;20-30%;0-35;1;90;N;Fail
+FFF;2014J;2559144;F;London Region;A Level or Equivalent;oct-20;0-35;0;120;N;Pass
+FFF;2014J;2563095;M;South Region;HE Qualification;40-50%;0-35;1;90;N;Pass
+FFF;2014J;2579891;M;North Western Region;A Level or Equivalent;20-30%;0-35;0;150;N;Pass
+FFF;2014J;2584244;M;Scotland;HE Qualification;20-30%;35-55;0;90;N;Pass
+FFF;2014J;2586748;M;South West Region;Lower Than A Level;50-60%;0-35;1;60;Y;Withdrawn
+FFF;2014J;2597117;M;East Anglian Region;A Level or Equivalent;20-30%;0-35;0;60;N;Distinction
+FFF;2014J;2599162;M;London Region;A Level or Equivalent;oct-20;0-35;1;60;N;Withdrawn
+FFF;2014J;2599883;F;Scotland;A Level or Equivalent;30-40%;0-35;0;240;N;Pass
+FFF;2014J;2602253;M;Scotland;A Level or Equivalent;0-10%;0-35;0;60;N;Withdrawn
+FFF;2014J;2602542;M;Scotland;Post Graduate Qualification;90-100%;35-55;2;60;N;Distinction
+FFF;2014J;2603027;M;South East Region;A Level or Equivalent;70-80%;35-55;0;90;N;Pass
+FFF;2014J;2612102;M;South East Region;Lower Than A Level;90-100%;35-55;0;60;N;Distinction
+FFF;2014J;2612728;M;West Midlands Region;Lower Than A Level;30-40%;35-55;0;60;N;Withdrawn
+FFF;2014J;2613827;M;South East Region;Lower Than A Level;90-100%;35-55;1;120;N;Withdrawn
+FFF;2014J;2622634;M;Ireland;A Level or Equivalent;oct-20;35-55;1;60;N;Withdrawn
+FFF;2014J;2624028;M;East Anglian Region;Lower Than A Level;30-40%;35-55;0;60;N;Pass
+FFF;2014J;2626417;M;Yorkshire Region;Lower Than A Level;oct-20;0-35;3;120;N;Withdrawn
+FFF;2014J;2630284;F;East Midlands Region;A Level or Equivalent;0-10%;35-55;6;90;N;Withdrawn
+FFF;2014J;2641156;M;North Western Region;A Level or Equivalent;30-40%;0-35;0;120;N;Pass
+FFF;2014J;2642532;M;London Region;HE Qualification;60-70%;0-35;3;120;N;Pass
+FFF;2014J;2643472;M;East Midlands Region;HE Qualification;30-40%;35-55;0;60;N;Pass
+FFF;2014J;2643829;M;North Region;Lower Than A Level;;0-35;0;60;N;Fail
+FFF;2014J;2649121;M;Yorkshire Region;Lower Than A Level;90-100%;0-35;0;180;N;Withdrawn
+FFF;2014J;2649948;M;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;60;N;Fail
+FFF;2014J;2652532;F;East Midlands Region;Lower Than A Level;90-100%;0-35;1;60;N;Withdrawn
+FFF;2014J;2657913;M;London Region;Lower Than A Level;40-50%;35-55;2;60;N;Pass
+FFF;2014J;2658856;M;Scotland;HE Qualification;80-90%;35-55;0;120;N;Pass
+FFF;2014J;2661012;M;South Region;Lower Than A Level;30-40%;35-55;0;120;N;Withdrawn
+FFF;2014J;2667478;M;North Western Region;Lower Than A Level;80-90%;35-55;1;60;N;Fail
+FFF;2014J;2678580;M;North Western Region;A Level or Equivalent;60-70%;0-35;0;60;N;Withdrawn
+FFF;2014J;2681198;M;East Anglian Region;Lower Than A Level;70-80%;35-55;0;90;N;Pass
+FFF;2014J;2682682;F;East Midlands Region;A Level or Equivalent;60-70%;0-35;0;120;Y;Distinction
+FFF;2014J;2682745;F;London Region;HE Qualification;30-40%;35-55;0;120;N;Withdrawn
+FFF;2014J;2683857;M;South West Region;Lower Than A Level;70-80%;35-55;1;90;N;Pass
+FFF;2014J;2684048;F;East Midlands Region;Lower Than A Level;20-30%;0-35;0;120;N;Withdrawn
+FFF;2014J;2686035;F;South East Region;Lower Than A Level;90-100%;0-35;0;135;N;Withdrawn
+FFF;2014J;2687012;M;North Western Region;Lower Than A Level;20-30%;35-55;1;150;N;Withdrawn
+FFF;2014J;2693932;M;West Midlands Region;A Level or Equivalent;90-100%;0-35;1;120;N;Pass
+FFF;2014J;2694139;M;East Anglian Region;Lower Than A Level;70-80%;35-55;0;60;N;Withdrawn
+FFF;2014J;2697921;M;East Anglian Region;Lower Than A Level;80-90%;0-35;1;60;N;Pass
+FFF;2014J;2702660;F;London Region;Lower Than A Level;50-60%;0-35;0;240;N;Withdrawn
